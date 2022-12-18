@@ -1,0 +1,75 @@
+{
+   "server" : {
+      "chatserver" : {
+         "host" : "10.0.0.5",
+         "port" : "7778"
+      },
+      "database" : {
+         "db" : "peq",
+         "host" : "127.0.0.1",
+         "password" : "eqemu",
+         "port" : "3306",
+         "username" : "root"
+      },
+      "directories" : {
+         "opcodes" : "assets/opcodes/",
+         "patches" : "assets/patches/"
+      },
+      "files" : {
+         "mail_opcodes" : "assets/opcodes/mail_opcodes.conf",
+         "opcodes" : "assets/opcodes/opcodes.conf"
+      },
+      "mailserver" : {
+         "host" : "10.0.0.5",
+         "port" : "7778"
+      },
+      "qsdatabase" : {
+         "db" : "peq",
+         "host" : "127.0.0.1",
+         "password" : "eqemu",
+         "port" : "3306",
+         "username" : "root"
+      },
+      "world" : {
+		  "localaddress" : "20.102.88.155",
+         "key" : "CuuLd10PdEzn7RB9mmPNYpxnfARtOv6",
+         "loginserver1" : {
+            "account" : "root",
+            "host" : "login.eqemulator.net",
+            "legacy" : "1",
+            "password" : "eqemu",
+            "port" : "5998"
+         },
+         "loginserver2" : {
+            "account" : "",
+            "host" : "127.0.0.1",
+            "password" : "",
+            "port" : "5998"
+         },
+         "loginserver3" : {
+            "account" : "",
+            "host" : "login.projecteq.net",
+            "password" : "",
+            "port" : "5998"
+         },
+         "longname" : "Project Gate [Velious]",
+         "shortname" : "ProjGate",
+         "tcp" : {
+            "ip" : "127.0.0.1",
+            "port" : "9001"
+         },
+         "telnet" : {
+            "enabled" : "false",
+            "ip" : "0.0.0.0",
+            "port" : "9000"
+         }
+      },
+      "zones" : {
+         "defaultstatus" : "0",
+         "ports" : {
+            "high" : "7400",
+            "low" : "7000"
+         }
+      }
+   }
+}
