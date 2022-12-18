@@ -1,0 +1,90 @@
+[12-18-2022 04:50:28] [Zone] [Info] [WorldServer::HandleMessage] Received Message SyncWorldTime
+[12-18-2022 04:50:28] [Zone] [Info] Time Broadcast Packet: EQTime [08:26 pm]
+[12-18-2022 04:50:28] [Zone] [Info] UCS Server is now [online]
+[12-18-2022 04:50:31] [Zone] [Info] New connection from IP 38.133.239.41:48349
+[12-18-2022 04:50:31] [Zone] [Info] New client from [38.133.239.41]:[48349]
+[12-18-2022 04:50:31] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 04:50:31] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 04:50:31] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 04:53:18] [Zone] [Info] [ZoneStore] Loaded [593] zones
+[12-18-2022 04:53:18] [Zone] [Info] Successfully loaded Zone Config for Zone [oot] (Ocean of Tears) Version [0] Instance ID [0]
+[12-18-2022 04:53:51] [Zone] [Info] [ZoneStore] Loaded [593] zones
+[12-18-2022 04:53:51] [Zone] [Info] Successfully loaded Zone Config for Zone [oot] (Ocean of Tears) Version [0] Instance ID [0]
+[12-18-2022 05:50:28] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [1 Hour] duration [1 Hour] zone [PID (10164) Ocean of Tears (69)]
+[12-18-2022 06:15:36] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [10] x [-1006.66] y [-14.65] z [-53.47] heading [64] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 06:15:36] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 06:15:36] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 06:15:36] [Zone] [Info] Zoning [Nivek] to: [freporte] ([10]) - ([0]) x [-1006.66] y [-14.65] z [-53.47]
+[12-18-2022 06:15:36] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [34 Minutes and 52 Seconds] duration [1 Hour] zone [PID (10164) Ocean of Tears (69)]
+[12-18-2022 06:15:37] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[48349]
+[12-18-2022 06:24:10] [Zone] [Info] New connection from IP 38.133.239.41:1774
+[12-18-2022 06:24:11] [Zone] [Info] New client from [38.133.239.41]:[1774]
+[12-18-2022 06:24:11] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 06:24:11] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 06:24:11] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 06:26:50] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [10] x [-1006.66] y [-14.65] z [-53.47] heading [64] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 06:26:50] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 06:26:50] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 06:26:50] [Zone] [Info] Zoning [Nivek] to: [freporte] ([10]) - ([0]) x [-1006.66] y [-14.65] z [-53.47]
+[12-18-2022 06:26:50] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [48 Minutes and 46 Seconds] duration [1 Hour] zone [PID (10164) Ocean of Tears (69)]
+[12-18-2022 06:26:51] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[1774]
+[12-18-2022 06:30:14] [Zone] [Info] New connection from IP 38.133.239.41:62948
+[12-18-2022 06:30:14] [Zone] [Info] New client from [38.133.239.41]:[62948]
+[12-18-2022 06:30:15] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 06:30:15] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 06:30:15] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 06:30:22] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [10] x [-1006.66] y [-14.65] z [-53.47] heading [64] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 06:30:22] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 06:30:22] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 06:30:22] [Zone] [Info] Zoning [Nivek] to: [freporte] ([10]) - ([0]) x [-1006.66] y [-14.65] z [-53.47]
+[12-18-2022 06:30:22] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [56 Minutes and 29 Seconds] duration [1 Hour] zone [PID (10164) Ocean of Tears (69)]
+[12-18-2022 06:30:22] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[62948]
+[12-18-2022 06:30:39] [Zone] [Info] New connection from IP 38.133.239.41:64484
+[12-18-2022 06:30:39] [Zone] [Info] New client from [38.133.239.41]:[64484]
+[12-18-2022 06:30:40] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 06:30:40] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 06:30:40] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 06:30:48] [Zone] [Info] [ZoneStore] Loaded [593] zones
+[12-18-2022 06:30:48] [Zone] [Info] Successfully loaded Zone Config for Zone [oot] (Ocean of Tears) Version [0] Instance ID [0]
+[12-18-2022 06:30:53] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [68] x [3160.48] y [1355.84] z [11.35] heading [0] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 06:30:53] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 06:30:53] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 06:30:53] [Zone] [Info] Zoning [Nivek] to: [butcher] ([68]) - ([0]) x [3160.48] y [1355.84] z [11.35]
+[12-18-2022 06:30:53] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [59 Minutes and 30 Seconds] duration [1 Hour] zone [PID (10164) Ocean of Tears (69)]
+[12-18-2022 06:30:53] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[64484]
+[12-18-2022 06:31:48] [Zone] [Info] New connection from IP 38.133.239.41:1765
+[12-18-2022 06:31:48] [Zone] [Info] New client from [38.133.239.41]:[1765]
+[12-18-2022 06:31:49] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 06:31:49] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 06:31:49] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 06:32:56] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [68] x [3160.48] y [1355.84] z [11.35] heading [0] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 06:32:57] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 06:32:57] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 06:32:57] [Zone] [Info] Zoning [Nivek] to: [butcher] ([68]) - ([0]) x [3160.48] y [1355.84] z [11.35]
+[12-18-2022 06:32:57] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [57 Minutes and 57 Seconds] duration [1 Hour] zone [PID (10164) Ocean of Tears (69)]
+[12-18-2022 06:32:57] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[1765]
+[12-18-2022 07:03:24] [Zone] [Info] New connection from IP 38.133.239.41:53491
+[12-18-2022 07:03:24] [Zone] [Info] New client from [38.133.239.41]:[53491]
+[12-18-2022 07:03:25] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 07:03:25] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 07:03:25] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 07:03:35] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [68] x [3160.48] y [1355.84] z [11.35] heading [0] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 07:03:35] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 07:03:35] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 07:03:35] [Zone] [Info] Zoning [Nivek] to: [butcher] ([68]) - ([0]) x [3160.48] y [1355.84] z [11.35]
+[12-18-2022 07:03:36] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [29 Minutes and 22 Seconds] duration [1 Hour] zone [PID (10164) Ocean of Tears (69)]
+[12-18-2022 07:03:36] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[53491]
+[12-18-2022 07:04:17] [Zone] [Info] New connection from IP 38.133.239.41:37853
+[12-18-2022 07:04:18] [Zone] [Info] New client from [38.133.239.41]:[37853]
+[12-18-2022 07:04:18] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 07:04:18] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 07:04:18] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 07:04:25] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [68] x [3160.48] y [1355.84] z [11.35] heading [0] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 07:04:25] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 07:04:25] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 07:04:25] [Zone] [Info] Zoning [Nivek] to: [butcher] ([68]) - ([0]) x [3160.48] y [1355.84] z [11.35]
+[12-18-2022 07:04:25] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [59 Minutes and 11 Seconds] duration [1 Hour] zone [PID (10164) Ocean of Tears (69)]
+[12-18-2022 07:04:26] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[37853]
+[12-18-2022 08:04:25] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [1 Hour] duration [1 Hour] zone [PID (10164) Ocean of Tears (69)]
+[12-18-2022 08:04:25] [Zone] [Info] [Zone Shutdown] Zone [oot] zone_id [69] version [0] instance_id [0]
+[12-18-2022 08:04:25] [Zone] [Info] [Zone Shutdown] Zone [oot] zone_id [69] version [0] instance_id [0] Going to sleep

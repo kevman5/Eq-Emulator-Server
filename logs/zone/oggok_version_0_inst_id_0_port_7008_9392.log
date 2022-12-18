@@ -1,0 +1,11 @@
+[12-18-2022 07:28:35] [Zone] [Info] [WorldServer::HandleMessage] Received Message SyncWorldTime
+[12-18-2022 07:28:35] [Zone] [Info] Time Broadcast Packet: EQTime [01:08 am]
+[12-18-2022 07:28:35] [Zone] [Info] UCS Server is now [online]
+[12-18-2022 07:28:36] [Zone] [Info] New connection from IP 38.133.239.41:37092
+[12-18-2022 07:28:36] [Zone] [Info] New client from [38.133.239.41]:[37092]
+[12-18-2022 07:28:41] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Fetch].
+[12-18-2022 07:28:41] [Zone] [Error] MySQL Error while trying to load zone flags for [Fetch]: []
+[12-18-2022 07:29:46] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[37092]
+[12-18-2022 08:28:35] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [1 Hour] duration [1 Hour] zone [PID (9392) Oggok (49)]
+[12-18-2022 08:28:35] [Zone] [Info] [Zone Shutdown] Zone [oggok] zone_id [49] version [0] instance_id [0]
+[12-18-2022 08:28:35] [Zone] [Info] [Zone Shutdown] Zone [oggok] zone_id [49] version [0] instance_id [0] Going to sleep

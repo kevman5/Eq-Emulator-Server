@@ -1,0 +1,20 @@
+[12-18-2022 04:49:44] [Zone] [Info] [WorldServer::HandleMessage] Received Message SyncWorldTime
+[12-18-2022 04:49:44] [Zone] [Info] Time Broadcast Packet: EQTime [08:11 pm]
+[12-18-2022 04:49:44] [Zone] [Info] UCS Server is now [online]
+[12-18-2022 04:49:55] [Zone] [Info] New connection from IP 38.133.239.41:47069
+[12-18-2022 04:49:55] [Zone] [Info] New client from [38.133.239.41]:[47069]
+[12-18-2022 04:49:58] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 04:49:58] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 04:49:58] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 04:50:27] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [69] x [0] y [0] z [0] heading [0] ignorerestrictions [0] zone_mode [0]
+[12-18-2022 04:50:28] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 04:50:28] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 04:50:28] [Zone] [Info] Zoning [Nivek] to: [oot] ([69]) - ([0]) x [-9200] y [390] z [6]
+[12-18-2022 04:50:28] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [59 Minutes and 17 Seconds] duration [1 Hour] zone [PID (9492) East Freeport (10)]
+[12-18-2022 04:50:28] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[47069]
+[12-18-2022 04:50:30] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 04:50:45] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 04:50:49] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 05:50:28] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [1 Hour] duration [1 Hour] zone [PID (9492) East Freeport (10)]
+[12-18-2022 05:50:28] [Zone] [Info] [Zone Shutdown] Zone [freporte] zone_id [10] version [0] instance_id [0]
+[12-18-2022 05:50:28] [Zone] [Info] [Zone Shutdown] Zone [freporte] zone_id [10] version [0] instance_id [0] Going to sleep

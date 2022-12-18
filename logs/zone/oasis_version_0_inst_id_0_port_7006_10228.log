@@ -1,0 +1,28 @@
+[12-18-2022 07:13:40] [Zone] [Info] [WorldServer::HandleMessage] Received Message SyncWorldTime
+[12-18-2022 07:13:40] [Zone] [Info] Time Broadcast Packet: EQTime [08:10 pm]
+[12-18-2022 07:13:40] [Zone] [Info] UCS Server is now [online]
+[12-18-2022 07:13:42] [Zone] [Info] New connection from IP 38.133.239.41:54471
+[12-18-2022 07:13:42] [Zone] [Info] New client from [38.133.239.41]:[54471]
+[12-18-2022 07:13:43] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 07:13:43] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 07:13:43] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 07:15:10] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [84] x [0] y [0] z [0] heading [0] ignorerestrictions [0] zone_mode [0]
+[12-18-2022 07:15:11] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 07:15:11] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 07:15:11] [Zone] [Info] Zoning [Nivek] to: [firiona] ([84]) - ([0]) x [1440] y [-2392] z [1]
+[12-18-2022 07:15:11] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [58 Minutes and 29 Seconds] duration [1 Hour] zone [PID (10228) Oasis of Marr (37)]
+[12-18-2022 07:15:11] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[54471]
+[12-18-2022 07:22:12] [Zone] [Info] New connection from IP 38.133.239.41:33239
+[12-18-2022 07:22:12] [Zone] [Info] New client from [38.133.239.41]:[33239]
+[12-18-2022 07:22:13] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 07:22:13] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 07:22:13] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 07:23:00] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [96] x [0] y [0] z [0] heading [0] ignorerestrictions [0] zone_mode [0]
+[12-18-2022 07:23:00] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 07:23:00] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 07:23:00] [Zone] [Info] Zoning [Nivek] to: [timorous] ([96]) - ([0]) x [2194] y [-5392] z [6]
+[12-18-2022 07:23:00] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [52 Minutes and 11 Seconds] duration [1 Hour] zone [PID (10228) Oasis of Marr (37)]
+[12-18-2022 07:23:00] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[33239]
+[12-18-2022 08:23:00] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [1 Hour] duration [1 Hour] zone [PID (10228) Oasis of Marr (37)]
+[12-18-2022 08:23:00] [Zone] [Info] [Zone Shutdown] Zone [oasis] zone_id [37] version [0] instance_id [0]
+[12-18-2022 08:23:00] [Zone] [Info] [Zone Shutdown] Zone [oasis] zone_id [37] version [0] instance_id [0] Going to sleep

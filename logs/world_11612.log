@@ -1,0 +1,633 @@
+[12-14-2022 20:46:24] [World] [Info] Loading variables
+[12-14-2022 20:46:24] [World] [Info] Purging expired data buckets
+[12-14-2022 20:46:24] [World] [Info] Loading zones
+[12-14-2022 20:46:24] [World] [Info] [ZoneStore] Loaded [593] zones
+[12-14-2022 20:46:24] [World] [Info] Clearing groups
+[12-14-2022 20:46:24] [World] [Info] Clearing raids
+[12-14-2022 20:46:24] [World] [Info] Clearing inventory snapshots
+[12-14-2022 20:46:24] [World] [Info] Loading items
+[12-14-2022 20:46:24] [World] [Info] [Shared Memory] Attempting to load file [shared/items]
+[12-14-2022 20:46:24] [World] [Info] Loading skill caps
+[12-14-2022 20:46:24] [World] [Info] [Shared Memory] Attempting to load file [shared/skill_caps]
+[12-14-2022 20:46:24] [World] [Info] Loading guilds
+[12-14-2022 20:46:24] [World] [Info] Loaded default rule set [default]
+[12-14-2022 20:46:24] [World] [Info] Initialized dynamic dictionary entries
+[12-14-2022 20:46:24] [World] [Info] Clearing temporary merchant lists
+[12-14-2022 20:46:25] [World] [Info] Loading EQ time of day
+[12-14-2022 20:46:25] [World] [Info] Deleted [0] stale player corpses from database
+[12-14-2022 20:46:25] [World] [Info] Loading adventures
+[12-14-2022 20:46:25] [World] [Info] Purging expired dynamic zones and members
+[12-14-2022 20:46:25] [World] [Info] Purging expired expeditions
+[12-14-2022 20:46:25] [World] [Info] Purging expired character task timers
+[12-14-2022 20:46:25] [World] [Info] Purging expired instances
+[12-14-2022 20:46:26] [World] [Info] Loading dynamic zones
+[12-14-2022 20:46:26] [World] [Info] Loading char create info
+[12-14-2022 20:46:26] [World] [Info] Initializing [EventScheduler]
+[12-14-2022 20:46:26] [World] [Info] Initializing [WorldContentService]
+[12-14-2022 20:46:26] [World] [Info] Current expansion is [2] (The Scars of Velious)
+[12-14-2022 20:46:26] [World] [Info] Loaded content flag [peq_halloween] [Disabled]
+[12-14-2022 20:46:26] [World] [Info] Initializing [SharedTaskManager]
+[12-14-2022 20:46:27] [World] [Info] Loading launcher list
+[12-14-2022 20:46:27] [World] [Info] Server (TCP) listener started on port [9001]
+[12-14-2022 20:46:27] [World] [Info] Checking for possible configuration issues
+[12-14-2022 20:46:27] [World] [Info] To disable configuration checks, set [server.disable_config_checks] to [true] in [eqemu_config.json]
+[12-14-2022 20:46:27] [World] [Info] World config address using DNS [] resolves to [10.0.0.5]
+[12-14-2022 20:46:29] [World] [Info] New Zone Server connection from [127.0.0.1] at [61411:21c4e641-dd9f-47f9-b777-36897f8ae672] zone_count (1)
+[12-14-2022 20:46:29] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:30] [World] [Info] Auto zone port configuration. Telling zone to use port [7000]
+[12-14-2022 20:46:30] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:30] [World] [Info] New Zone Server connection from [127.0.0.1] at [61413:42c44d9f-9170-4c56-ac1a-b2d8dfebf414] zone_count (2)
+[12-14-2022 20:46:30] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:30] [World] [Info] Auto zone port configuration. Telling zone to use port [7001]
+[12-14-2022 20:46:30] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:31] [World] [Info] New Zone Server connection from [127.0.0.1] at [61414:f0d51cfb-eb9a-471f-b699-90a7ca93697d] zone_count (3)
+[12-14-2022 20:46:31] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:31] [World] [Info] Auto zone port configuration. Telling zone to use port [7002]
+[12-14-2022 20:46:31] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:31] [World] [Info] New Zone Server connection from [127.0.0.1] at [61405:562a9d90-5500-43ad-b14a-cc48e1353037] zone_count (4)
+[12-14-2022 20:46:31] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:31] [World] [Info] Auto zone port configuration. Telling zone to use port [7003]
+[12-14-2022 20:46:31] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:31] [World] [Info] New Zone Server connection from [127.0.0.1] at [61401:8829b7af-ee3d-4060-8234-4f9450c83730] zone_count (5)
+[12-14-2022 20:46:31] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7004]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61402:af11d6ee-67a3-46c4-9c3c-28734ec7471f] zone_count (6)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7005]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61407:712e74ac-59eb-4f6a-9660-85e7bb971e6f] zone_count (7)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7006]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61418:b7b0706c-ac8f-4ece-95f3-12e2925c29c8] zone_count (8)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7007]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61419:a7927930-e663-4a8c-b84d-b014b9a61457] zone_count (9)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7008]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61421:b77fdd64-54c3-47c0-a5d4-f25092742ed4] zone_count (10)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7009]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61424:83e49c3f-5ecb-4063-894e-b1b367258048] zone_count (11)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7010]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61426:a4dd496d-f578-4c66-9429-4d60d91b1c4c] zone_count (12)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7011]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61428:d3b0d0ba-d05e-43b0-b7cf-f41c3bd81fd7] zone_count (13)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7012]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61431:8051ca26-e8a3-4028-af91-c0ead73d27ed] zone_count (14)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7013]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61432:7fd880ca-1f71-4030-95bc-f67faa35e8b2] zone_count (15)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7014]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61433:3b801937-e3ef-448c-b4bc-6c939097e310] zone_count (16)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7015]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61436:c4a61a28-2024-4f4c-81b8-309d411d8231] zone_count (17)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7016]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61437:2b7dd2f3-236d-4c27-99de-5e64c3b9259c] zone_count (18)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7017]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61439:a08be89a-3e23-4e53-a81a-4990c78a90b8] zone_count (19)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7018]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61442:4538cb2e-9358-4cde-8c95-178a496a00d6] zone_count (20)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7019]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61444:d62bf39c-a978-4637-afb0-a5be1a9f6d3b] zone_count (21)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7020]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61446:6368b521-2bda-4fbf-ae16-c18bb3331f3e] zone_count (22)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7021]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61448:859849a2-2793-4eab-b64f-474774a1e25c] zone_count (23)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7022]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61451:2e215c47-9fa9-428a-ba18-2f8ed0dc1c7c] zone_count (24)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7023]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61452:9db2c999-78e5-4ae4-9999-cb5ed07e2ef5] zone_count (25)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7024]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61453:80e24d00-b521-4e68-a158-d4e22bbcacd3] zone_count (26)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7025]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61455:11b06912-7f1e-4acf-8941-83a0774dd6f2] zone_count (27)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7026]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61456:ca5a4a9a-c67b-44c0-9dfe-9bf13ac32b98] zone_count (28)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7027]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61459:297d7978-e7dc-4320-8fbd-35a01aed8cf0] zone_count (29)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7028]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Query Server connection from [127.0.0.1] at [61460:e8f3a631-2f32-485a-a240-30da5950437f]
+[12-14-2022 20:46:32] [World] [Info] Connected to Loginserver [127.0.0.1:5998]
+[12-14-2022 20:46:32] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [] remote_ip_address [] local_ip [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New Zone Server connection from [127.0.0.1] at [61464:463a6054-646f-4d9b-81eb-38c0419714e3] zone_count (30)
+[12-14-2022 20:46:32] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 20:46:32] [World] [Info] Auto zone port configuration. Telling zone to use port [7029]
+[12-14-2022 20:46:32] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 20:46:32] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [] local_ip [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] Connected to Loginserver [login.projecteq.net:5998]
+[12-14-2022 20:46:32] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [] remote_ip_address [] local_ip [20.102.88.155]
+[12-14-2022 20:46:32] [World] [Info] New UCS Server connection from [127.0.0.1] at [61465:4015c16e-2552-4d57-9768-9e6547371592]
+[12-14-2022 20:46:32] [World] [Info] Loginserver provided [20.102.88.155] as world address
+[12-14-2022 20:54:10] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:5851]
+[12-14-2022 20:54:10] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 20:54:10] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 20:54:10] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-14-2022 20:54:10] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-14-2022 20:54:10] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (3)
+[12-14-2022 20:54:10] [World] [Info] Account (bartuc1) Logging(In) to character select :: LSID [331073] 
+[12-14-2022 20:54:10] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (3)
+[12-14-2022 20:54:18] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:17122]
+[12-14-2022 20:54:18] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 20:54:18] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 20:54:18] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [154340]
+[12-14-2022 20:54:18] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [154340] passed
+[12-14-2022 20:54:18] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (3)
+[12-14-2022 20:54:18] [World] [Info] Account (thefusz) Logging(In) to character select :: LSID [154340] 
+[12-14-2022 20:54:18] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (3)
+[12-14-2022 20:54:54] [World] [Info] Attempting autobootup of [ecommons] ([22]:[0])
+[12-14-2022 20:54:54] [World] [Info] Setting zone process to Zone: East Commonlands (ecommons) ID: 22
+[12-14-2022 20:54:54] [World] [Info] (Nivek) [Zoning from character select] [ecommons] (Zone ID [22]: Instance ID: [0]) 
+[12-14-2022 20:54:54] [World] [Info] Broadcasting a world time update
+[12-14-2022 20:54:54] [World] [Info] Setting zone process to Zone: East Commonlands (ecommons) ID: 22
+[12-14-2022 20:54:54] [World] [Info] Sending client to zone [ecommons] ([22]:[0]) at [20.102.88.155]:[7000]
+[12-14-2022 20:54:54] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-14-2022 20:54:54] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 20:54:54] [World] [Info] Removing client from [38.133.239.41]:[5851]
+[12-14-2022 20:54:57] [World] [Info] Attempting autobootup of [velketor] ([112]:[0])
+[12-14-2022 20:54:57] [World] [Info] Setting zone process to Zone: Velketor's Labyrinth (velketor) ID: 112
+[12-14-2022 20:54:57] [World] [Info] (Fade) [Zoning from character select] [velketor] (Zone ID [112]: Instance ID: [0]) 
+[12-14-2022 20:54:57] [World] [Info] Broadcasting a world time update
+[12-14-2022 20:54:57] [World] [Info] Setting zone process to Zone: Velketor's Labyrinth (velketor) ID: 112
+[12-14-2022 20:54:57] [World] [Info] Sending client to zone [velketor] ([112]:[0]) at [20.102.88.155]:[7001]
+[12-14-2022 20:54:57] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (4)
+[12-14-2022 20:54:57] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 20:54:57] [World] [Info] Removing client from [38.133.239.41]:[17122]
+[12-14-2022 20:54:58] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 20:54:58] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 20:55:00] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (5)
+[12-14-2022 20:55:00] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (5)
+[12-14-2022 20:56:27] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:64753]
+[12-14-2022 20:56:27] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 20:56:27] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 20:56:27] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [330973]
+[12-14-2022 20:56:27] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [330973] passed
+[12-14-2022 20:56:27] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (3)
+[12-14-2022 20:56:27] [World] [Info] Account (bartuc3) Logging(In) to character select :: LSID [330973] 
+[12-14-2022 20:56:27] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (3)
+[12-14-2022 20:56:43] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:51392]
+[12-14-2022 20:56:44] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 20:56:44] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 20:56:44] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [315826]
+[12-14-2022 20:56:44] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [315826] passed
+[12-14-2022 20:56:44] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (3)
+[12-14-2022 20:56:44] [World] [Info] Account (thefusz8) Logging(In) to character select :: LSID [315826] 
+[12-14-2022 20:56:44] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (3)
+[12-14-2022 20:56:48] [World] [Info] Attempting autobootup of [westwastes] ([120]:[0])
+[12-14-2022 20:56:49] [World] [Info] Setting zone process to Zone: The Western Wastes (westwastes) ID: 120
+[12-14-2022 20:56:49] [World] [Info] (Shift) [Zoning from character select] [westwastes] (Zone ID [120]: Instance ID: [0]) 
+[12-14-2022 20:56:49] [World] [Info] Broadcasting a world time update
+[12-14-2022 20:56:49] [World] [Info] Setting zone process to Zone: The Western Wastes (westwastes) ID: 120
+[12-14-2022 20:56:49] [World] [Info] Sending client to zone [westwastes] ([120]:[0]) at [20.102.88.155]:[7002]
+[12-14-2022 20:56:49] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (4)
+[12-14-2022 20:56:49] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 20:56:49] [World] [Info] Removing client from [38.133.239.41]:[64753]
+[12-14-2022 20:56:53] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (5)
+[12-14-2022 20:56:53] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (5)
+[12-14-2022 20:57:04] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:13540]
+[12-14-2022 20:57:04] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 20:57:04] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 20:57:04] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [255516]
+[12-14-2022 20:57:04] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [255516] passed
+[12-14-2022 20:57:04] [World] [Client Login] ClientListEntry::SetOnline for [bartuc5] (26) = [Online] (3)
+[12-14-2022 20:57:04] [World] [Info] Account (bartuc5) Logging(In) to character select :: LSID [255516] 
+[12-14-2022 20:57:04] [World] [Client Login] ClientListEntry::SetOnline for [bartuc5] (26) = [Online] (3)
+[12-14-2022 20:57:12] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:12770]
+[12-14-2022 20:57:12] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 20:57:12] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 20:57:12] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331074]
+[12-14-2022 20:57:12] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331074] passed
+[12-14-2022 20:57:12] [World] [Client Login] ClientListEntry::SetOnline for [bartuc6] (27) = [Online] (3)
+[12-14-2022 20:57:12] [World] [Info] Account (bartuc6) Logging(In) to character select :: LSID [331074] 
+[12-14-2022 20:57:12] [World] [Client Login] ClientListEntry::SetOnline for [bartuc6] (27) = [Online] (3)
+[12-14-2022 20:57:23] [World] [Info] (Fury) [Zoning from character select] [velketor] (Zone ID [112]: Instance ID: [0]) 
+[12-14-2022 20:57:23] [World] [Info] Setting zone process to Zone: Velketor's Labyrinth (velketor) ID: 112
+[12-14-2022 20:57:23] [World] [Info] Sending client to zone [velketor] ([112]:[0]) at [20.102.88.155]:[7001]
+[12-14-2022 20:57:23] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (4)
+[12-14-2022 20:57:23] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 20:57:23] [World] [Info] Removing client from [38.133.239.41]:[51392]
+[12-14-2022 20:57:25] [World] [Info] (Mezz) [Zoning from character select] [velketor] (Zone ID [112]: Instance ID: [0]) 
+[12-14-2022 20:57:25] [World] [Info] Setting zone process to Zone: Velketor's Labyrinth (velketor) ID: 112
+[12-14-2022 20:57:25] [World] [Info] Sending client to zone [velketor] ([112]:[0]) at [20.102.88.155]:[7001]
+[12-14-2022 20:57:25] [World] [Client Login] ClientListEntry::SetOnline for [bartuc5] (26) = [Online] (4)
+[12-14-2022 20:57:25] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 20:57:25] [World] [Info] Removing client from [38.133.239.41]:[13540]
+[12-14-2022 20:57:27] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (5)
+[12-14-2022 20:57:27] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (5)
+[12-14-2022 20:57:29] [World] [Client Login] ClientListEntry::SetOnline for [bartuc5] (26) = [Online] (5)
+[12-14-2022 20:57:29] [World] [Client Login] ClientListEntry::SetOnline for [bartuc5] (26) = [Online] (5)
+[12-14-2022 20:57:31] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:20175]
+[12-14-2022 20:57:31] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 20:57:31] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 20:57:31] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [276955]
+[12-14-2022 20:57:31] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [276955] passed
+[12-14-2022 20:57:31] [World] [Client Login] ClientListEntry::SetOnline for [thefusz6] (7) = [Online] (3)
+[12-14-2022 20:57:31] [World] [Info] Account (thefusz6) Logging(In) to character select :: LSID [276955] 
+[12-14-2022 20:57:31] [World] [Client Login] ClientListEntry::SetOnline for [thefusz6] (7) = [Online] (3)
+[12-14-2022 20:57:43] [World] [Info] ZoneToZone request for [Nivek] current zone [22] req zone [112]
+[12-14-2022 20:57:43] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-14-2022 20:57:43] [World] [Info] Found a zone already booted for [Nivek]
+[12-14-2022 20:57:43] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-14-2022 20:57:43] [World] [Info] ZoneToZone request for [Nivek] current zone [22] req zone [112]
+[12-14-2022 20:57:43] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [22]
+[12-14-2022 20:57:43] [World] [Info] Found egress server, forwarding client
+[12-14-2022 20:57:43] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:27126]
+[12-14-2022 20:57:44] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 20:57:44] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 20:57:44] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-14-2022 20:57:44] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-14-2022 20:57:44] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-14-2022 20:57:44] [World] [Info] Telling client to continue session
+[12-14-2022 20:57:45] [World] [Info] (Nivek) [Zoning to] [velketor] (Zone ID [112]: Instance ID: [0]) 
+[12-14-2022 20:57:45] [World] [Info] Sending client to zone [velketor] ([112]:[0]) at [20.102.88.155]:[7001]
+[12-14-2022 20:57:45] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-14-2022 20:57:45] [World] [Info] Setting zone process to Zone: Velketor's Labyrinth (velketor) ID: 112
+[12-14-2022 20:57:45] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 20:57:45] [World] [Info] Removing client from [38.133.239.41]:[27126]
+[12-14-2022 20:57:46] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 20:57:46] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 20:57:47] [World] [Info] (Shade) [Zoning from character select] [velketor] (Zone ID [112]: Instance ID: [0]) 
+[12-14-2022 20:57:47] [World] [Info] Setting zone process to Zone: Velketor's Labyrinth (velketor) ID: 112
+[12-14-2022 20:57:47] [World] [Info] Sending client to zone [velketor] ([112]:[0]) at [20.102.88.155]:[7001]
+[12-14-2022 20:57:47] [World] [Client Login] ClientListEntry::SetOnline for [bartuc6] (27) = [Online] (4)
+[12-14-2022 20:57:47] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 20:57:47] [World] [Info] Removing client from [38.133.239.41]:[12770]
+[12-14-2022 20:57:51] [World] [Client Login] ClientListEntry::SetOnline for [bartuc6] (27) = [Online] (5)
+[12-14-2022 20:57:51] [World] [Client Login] ClientListEntry::SetOnline for [bartuc6] (27) = [Online] (5)
+[12-14-2022 20:58:00] [World] [Info] (Riptide) [Zoning from character select] [velketor] (Zone ID [112]: Instance ID: [0]) 
+[12-14-2022 20:58:00] [World] [Info] Setting zone process to Zone: Velketor's Labyrinth (velketor) ID: 112
+[12-14-2022 20:58:00] [World] [Info] Sending client to zone [velketor] ([112]:[0]) at [20.102.88.155]:[7001]
+[12-14-2022 20:58:00] [World] [Client Login] ClientListEntry::SetOnline for [thefusz6] (7) = [Online] (4)
+[12-14-2022 20:58:01] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 20:58:01] [World] [Info] Removing client from [38.133.239.41]:[20175]
+[12-14-2022 20:58:04] [World] [Client Login] ClientListEntry::SetOnline for [thefusz6] (7) = [Online] (5)
+[12-14-2022 20:58:04] [World] [Client Login] ClientListEntry::SetOnline for [thefusz6] (7) = [Online] (5)
+[12-14-2022 20:58:09] [World] [Info] ZoneToZone request for [Shift] current zone [120] req zone [112]
+[12-14-2022 20:58:09] [World] [Info] Processing ZTZ for egress from zone for client [Shift]
+[12-14-2022 20:58:09] [World] [Info] Found a zone already booted for [Shift]
+[12-14-2022 20:58:09] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (4)
+[12-14-2022 20:58:09] [World] [Info] ZoneToZone request for [Shift] current zone [120] req zone [112]
+[12-14-2022 20:58:09] [World] [Info] Processing ZTZ for ingress to zone for client [Shift] instance_id [0] zone_id [120]
+[12-14-2022 20:58:09] [World] [Info] Found egress server, forwarding client
+[12-14-2022 20:58:10] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:17368]
+[12-14-2022 20:58:10] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 20:58:10] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 20:58:10] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [330973]
+[12-14-2022 20:58:10] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [330973] passed
+[12-14-2022 20:58:10] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (2)
+[12-14-2022 20:58:10] [World] [Info] Telling client to continue session
+[12-14-2022 20:58:11] [World] [Info] (Shift) [Zoning to] [velketor] (Zone ID [112]: Instance ID: [0]) 
+[12-14-2022 20:58:11] [World] [Info] Sending client to zone [velketor] ([112]:[0]) at [20.102.88.155]:[7001]
+[12-14-2022 20:58:11] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (4)
+[12-14-2022 20:58:11] [World] [Info] Setting zone process to Zone: Velketor's Labyrinth (velketor) ID: 112
+[12-14-2022 20:58:11] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 20:58:11] [World] [Info] Removing client from [38.133.239.41]:[17368]
+[12-14-2022 20:58:12] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (5)
+[12-14-2022 20:58:12] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (5)
+[12-14-2022 20:58:16] [World] [Info] ZoneToZone request for [Nivek] current zone [112] req zone [1]
+[12-14-2022 20:58:16] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-14-2022 20:58:16] [World] [Info] Successfully booted a zone for [Nivek]
+[12-14-2022 20:58:16] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-14-2022 20:58:17] [World] [Info] Setting zone process to Zone: South Qeynos (qeynos) ID: 1
+[12-14-2022 20:58:17] [World] [Info] Broadcasting a world time update
+[12-14-2022 20:58:17] [World] [Info] ZoneToZone request for [Nivek] current zone [112] req zone [1]
+[12-14-2022 20:58:17] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [112]
+[12-14-2022 20:58:17] [World] [Info] Found egress server, forwarding client
+[12-14-2022 20:58:17] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:43241]
+[12-14-2022 20:58:17] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 20:58:17] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 20:58:17] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-14-2022 20:58:17] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-14-2022 20:58:17] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-14-2022 20:58:17] [World] [Info] Telling client to continue session
+[12-14-2022 20:58:18] [World] [Info] (Nivek) [Zoning to] [qeynos] (Zone ID [1]: Instance ID: [0]) 
+[12-14-2022 20:58:18] [World] [Info] Sending client to zone [qeynos] ([1]:[0]) at [20.102.88.155]:[7003]
+[12-14-2022 20:58:18] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-14-2022 20:58:18] [World] [Info] Setting zone process to Zone: South Qeynos (qeynos) ID: 1
+[12-14-2022 20:58:19] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 20:58:19] [World] [Info] Removing client from [38.133.239.41]:[43241]
+[12-14-2022 20:58:20] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 20:58:20] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 21:00:00] [World] [Info] ZoneToZone request for [Nivek] current zone [1] req zone [112]
+[12-14-2022 21:00:00] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-14-2022 21:00:00] [World] [Info] Found a zone already booted for [Nivek]
+[12-14-2022 21:00:00] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-14-2022 21:00:00] [World] [Info] ZoneToZone request for [Nivek] current zone [1] req zone [112]
+[12-14-2022 21:00:00] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [1]
+[12-14-2022 21:00:00] [World] [Info] Found egress server, forwarding client
+[12-14-2022 21:00:01] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:20949]
+[12-14-2022 21:00:01] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 21:00:01] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 21:00:01] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-14-2022 21:00:01] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-14-2022 21:00:01] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-14-2022 21:00:01] [World] [Info] Telling client to continue session
+[12-14-2022 21:00:02] [World] [Info] (Nivek) [Zoning to] [velketor] (Zone ID [112]: Instance ID: [0]) 
+[12-14-2022 21:00:02] [World] [Info] Sending client to zone [velketor] ([112]:[0]) at [20.102.88.155]:[7001]
+[12-14-2022 21:00:02] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-14-2022 21:00:02] [World] [Info] Setting zone process to Zone: Velketor's Labyrinth (velketor) ID: 112
+[12-14-2022 21:00:03] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 21:00:03] [World] [Info] Removing client from [38.133.239.41]:[20949]
+[12-14-2022 21:00:04] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 21:00:04] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 21:00:10] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (5)
+[12-14-2022 21:00:14] [World] [Info] ZoneToZone request for [Nivek] current zone [112] req zone [1]
+[12-14-2022 21:00:14] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-14-2022 21:00:14] [World] [Info] Found a zone already booted for [Nivek]
+[12-14-2022 21:00:14] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-14-2022 21:00:14] [World] [Info] ZoneToZone request for [Nivek] current zone [112] req zone [1]
+[12-14-2022 21:00:14] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [112]
+[12-14-2022 21:00:14] [World] [Info] Found egress server, forwarding client
+[12-14-2022 21:00:15] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:21973]
+[12-14-2022 21:00:15] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 21:00:15] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 21:00:15] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-14-2022 21:00:15] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-14-2022 21:00:15] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-14-2022 21:00:15] [World] [Info] Telling client to continue session
+[12-14-2022 21:00:16] [World] [Info] (Nivek) [Zoning to] [qeynos] (Zone ID [1]: Instance ID: [0]) 
+[12-14-2022 21:00:16] [World] [Info] Sending client to zone [qeynos] ([1]:[0]) at [20.102.88.155]:[7003]
+[12-14-2022 21:00:16] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-14-2022 21:00:16] [World] [Info] Setting zone process to Zone: South Qeynos (qeynos) ID: 1
+[12-14-2022 21:00:17] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 21:00:17] [World] [Info] Removing client from [38.133.239.41]:[21973]
+[12-14-2022 21:00:18] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 21:00:18] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 21:02:37] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (5)
+[12-14-2022 21:02:37] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (5)
+[12-14-2022 21:02:39] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (5)
+[12-14-2022 21:02:41] [World] [Client Login] ClientListEntry::SetOnline for [bartuc6] (27) = [Online] (5)
+[12-14-2022 21:02:42] [World] [Client Login] ClientListEntry::SetOnline for [thefusz6] (7) = [Online] (5)
+[12-14-2022 21:02:45] [World] [Client Login] ClientListEntry::SetOnline for [bartuc5] (26) = [Online] (5)
+[12-14-2022 21:03:45] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:03:45] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:03:49] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:03:49] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:03:52] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:03:52] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:03:55] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:03:55] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:03:58] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:03:58] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:01] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:01] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:03] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:03] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:06] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:06] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:09] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:09] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:12] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:12] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:15] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:15] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:18] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:18] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:21] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:21] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:24] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:24] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:27] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:27] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:30] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:30] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:33] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:33] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:36] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:36] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:39] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:39] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:42] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:42] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:45] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:45] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:48] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:48] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:51] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:51] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:54] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:54] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:04:57] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:04:57] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:00] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:00] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:03] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:03] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:06] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:06] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:09] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:09] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:13] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:13] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:16] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:16] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:19] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:19] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:22] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:22] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:25] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:25] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:28] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:28] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:31] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:31] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:34] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:34] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:37] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:37] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:40] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:40] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:43] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:43] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:46] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:46] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:50] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:50] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:54] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:54] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:05:57] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:05:57] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:00] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:00] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:03] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:03] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:10] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:10] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:15] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:15] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:19] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:19] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:23] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:23] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:27] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:27] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:31] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:31] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:35] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:35] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:39] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:39] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:43] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:43] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:47] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:47] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:51] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:51] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:55] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:55] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:06:58] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:06:58] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:07:01] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:07:01] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:07:04] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:07:04] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:07:07] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:07:07] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:07:10] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:07:10] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:07:16] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 21:07:16] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 21:08:28] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (5)
+[12-14-2022 21:09:11] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:28643]
+[12-14-2022 21:09:12] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 21:09:12] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 21:09:12] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [154340]
+[12-14-2022 21:09:12] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [154340] passed
+[12-14-2022 21:09:12] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (3)
+[12-14-2022 21:09:12] [World] [Info] Account (thefusz) Logging(Out) to character select :: LSID [154340] 
+[12-14-2022 21:09:12] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (3)
+[12-14-2022 21:09:12] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:28899]
+[12-14-2022 21:09:12] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 21:09:12] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 21:09:12] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [315826]
+[12-14-2022 21:09:12] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [315826] passed
+[12-14-2022 21:09:12] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (3)
+[12-14-2022 21:09:12] [World] [Info] Account (thefusz8) Logging(Out) to character select :: LSID [315826] 
+[12-14-2022 21:09:12] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (3)
+[12-14-2022 21:09:14] [World] [Info] (Fade) [Zoning from character select] [velketor] (Zone ID [112]: Instance ID: [0]) 
+[12-14-2022 21:09:14] [World] [Info] Setting zone process to Zone: Velketor's Labyrinth (velketor) ID: 112
+[12-14-2022 21:09:14] [World] [Info] Sending client to zone [velketor] ([112]:[0]) at [20.102.88.155]:[7001]
+[12-14-2022 21:09:14] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (4)
+[12-14-2022 21:09:14] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 21:09:14] [World] [Info] Removing client from [38.133.239.41]:[28643]
+[12-14-2022 21:09:16] [World] [Info] (Fury) [Zoning from character select] [velketor] (Zone ID [112]: Instance ID: [0]) 
+[12-14-2022 21:09:16] [World] [Info] Setting zone process to Zone: Velketor's Labyrinth (velketor) ID: 112
+[12-14-2022 21:09:16] [World] [Info] Sending client to zone [velketor] ([112]:[0]) at [20.102.88.155]:[7001]
+[12-14-2022 21:09:16] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (4)
+[12-14-2022 21:09:16] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 21:09:16] [World] [Info] Removing client from [38.133.239.41]:[28899]
+[12-14-2022 21:09:19] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (5)
+[12-14-2022 21:09:19] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (5)
+[12-14-2022 21:09:28] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (5)
+[12-14-2022 21:09:28] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (5)
+[12-14-2022 21:09:45] [World] [Client Login] ClientListEntry::SetOnline for [bartuc5] (26) = [Online] (5)
+[12-14-2022 21:09:45] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (5)
+[12-14-2022 21:09:47] [World] [Client Login] ClientListEntry::SetOnline for [thefusz6] (7) = [Online] (5)
+[12-14-2022 21:09:48] [World] [Client Login] ClientListEntry::SetOnline for [bartuc6] (27) = [Online] (5)
+[12-14-2022 21:09:50] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (5)
+[12-14-2022 21:09:53] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (5)
+[12-14-2022 21:12:58] [World] [Client Login] ClientListEntry::SetOnline for [thefusz6] (7) = [Online] (5)
+[12-14-2022 21:12:58] [World] [Client Login] ClientListEntry::SetOnline for [bartuc6] (27) = [Online] (5)
+[12-14-2022 21:12:58] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (5)
+[12-14-2022 21:16:34] [World] [Client Login] ClientListEntry::SetOnline for [bartuc5] (26) = [Online] (5)
+[12-14-2022 21:17:15] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (5)
+[12-14-2022 21:31:48] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (5)
+[12-14-2022 21:44:02] [World] [Client Login] ClientListEntry::SetOnline for [thefusz6] (7) = [Online] (5)
+[12-14-2022 21:44:02] [World] [Client Login] ClientListEntry::SetOnline for [bartuc6] (27) = [Online] (5)
+[12-14-2022 21:44:02] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (5)
+[12-14-2022 21:57:44] [World] [Info] New Zone Server connection from [127.0.0.1] at [61895:2e705531-2a8d-44ea-90f2-ee947fcc4dea] zone_count (31)
+[12-14-2022 21:57:44] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 21:57:44] [World] [Info] Auto zone port configuration. Telling zone to use port [7030]
+[12-14-2022 21:57:44] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 21:57:44] [World] [Info] Removed Zone Server connection from [21c4e641-dd9f-47f9-b777-36897f8ae672] total zone_count [30]
+[12-14-2022 21:57:57] [World] [Client Login] ClientListEntry::SetOnline for [bartuc5] (26) = [Online] (5)
+[12-14-2022 21:57:57] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (5)
+[12-14-2022 21:58:11] [World] [Info] New Zone Server connection from [127.0.0.1] at [61898:d8ea75a5-b852-40bb-8f44-fcd07d4427e5] zone_count (31)
+[12-14-2022 21:58:11] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 21:58:11] [World] [Info] Auto zone port configuration. Telling zone to use port [7031]
+[12-14-2022 21:58:11] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 21:58:11] [World] [Info] Removed Zone Server connection from [f0d51cfb-eb9a-471f-b699-90a7ca93697d] total zone_count [30]
+[12-14-2022 22:00:02] [World] [Info] Connected to Loginserver [login.projecteq.net:5998]
+[12-14-2022 22:00:02] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-14-2022 22:09:35] [World] [Info] Removed Query Server connection from [e8f3a631-2f32-485a-a240-30da5950437f]
+[12-14-2022 22:09:35] [World] [Info] Connection lost from UCS Server [4015c16e-2552-4d57-9768-9e6547371592]
+[12-14-2022 22:09:35] [World] [Info] Removing currently active UCS connection
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [8829b7af-ee3d-4060-8234-4f9450c83730] total zone_count [29]
+[12-14-2022 22:09:35] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (1)
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [562a9d90-5500-43ad-b14a-cc48e1353037] total zone_count [28]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [af11d6ee-67a3-46c4-9c3c-28734ec7471f] total zone_count [27]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [7fd880ca-1f71-4030-95bc-f67faa35e8b2] total zone_count [26]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [d3b0d0ba-d05e-43b0-b7cf-f41c3bd81fd7] total zone_count [25]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [83e49c3f-5ecb-4063-894e-b1b367258048] total zone_count [24]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [b77fdd64-54c3-47c0-a5d4-f25092742ed4] total zone_count [23]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [b7b0706c-ac8f-4ece-95f3-12e2925c29c8] total zone_count [22]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [a7927930-e663-4a8c-b84d-b014b9a61457] total zone_count [21]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [3b801937-e3ef-448c-b4bc-6c939097e310] total zone_count [20]
+[12-14-2022 22:09:35] [World] [Client Login] ClientListEntry::SetOnline for [thefusz] (2) = [Online] (1)
+[12-14-2022 22:09:35] [World] [Client Login] ClientListEntry::SetOnline for [bartuc3] (24) = [Online] (1)
+[12-14-2022 22:09:35] [World] [Client Login] ClientListEntry::SetOnline for [thefusz8] (53) = [Online] (1)
+[12-14-2022 22:09:35] [World] [Client Login] ClientListEntry::SetOnline for [bartuc5] (26) = [Online] (1)
+[12-14-2022 22:09:35] [World] [Client Login] ClientListEntry::SetOnline for [bartuc6] (27) = [Online] (1)
+[12-14-2022 22:09:35] [World] [Client Login] ClientListEntry::SetOnline for [thefusz6] (7) = [Online] (1)
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [42c44d9f-9170-4c56-ac1a-b2d8dfebf414] total zone_count [19]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [a4dd496d-f578-4c66-9429-4d60d91b1c4c] total zone_count [18]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [712e74ac-59eb-4f6a-9660-85e7bb971e6f] total zone_count [17]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [2e705531-2a8d-44ea-90f2-ee947fcc4dea] total zone_count [16]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [297d7978-e7dc-4320-8fbd-35a01aed8cf0] total zone_count [15]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [80e24d00-b521-4e68-a158-d4e22bbcacd3] total zone_count [14]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [2e215c47-9fa9-428a-ba18-2f8ed0dc1c7c] total zone_count [13]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [d8ea75a5-b852-40bb-8f44-fcd07d4427e5] total zone_count [12]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [ca5a4a9a-c67b-44c0-9dfe-9bf13ac32b98] total zone_count [11]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [463a6054-646f-4d9b-81eb-38c0419714e3] total zone_count [10]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [9db2c999-78e5-4ae4-9999-cb5ed07e2ef5] total zone_count [9]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [859849a2-2793-4eab-b64f-474774a1e25c] total zone_count [8]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [6368b521-2bda-4fbf-ae16-c18bb3331f3e] total zone_count [7]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [11b06912-7f1e-4acf-8941-83a0774dd6f2] total zone_count [6]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [d62bf39c-a978-4637-afb0-a5be1a9f6d3b] total zone_count [5]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [4538cb2e-9358-4cde-8c95-178a496a00d6] total zone_count [4]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [2b7dd2f3-236d-4c27-99de-5e64c3b9259c] total zone_count [3]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [a08be89a-3e23-4e53-a81a-4990c78a90b8] total zone_count [2]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [c4a61a28-2024-4f4c-81b8-309d411d8231] total zone_count [1]
+[12-14-2022 22:09:35] [World] [Info] Removed Zone Server connection from [8051ca26-e8a3-4028-af91-c0ead73d27ed] total zone_count [0]

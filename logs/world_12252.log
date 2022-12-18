@@ -1,0 +1,885 @@
+[12-18-2022 04:48:56] [World] [Info] Loading variables
+[12-18-2022 04:48:56] [World] [Info] Purging expired data buckets
+[12-18-2022 04:48:56] [World] [Info] Loading zones
+[12-18-2022 04:48:56] [World] [Info] [ZoneStore] Loaded [593] zones
+[12-18-2022 04:48:57] [World] [Info] Clearing groups
+[12-18-2022 04:48:57] [World] [Info] Clearing raids
+[12-18-2022 04:48:57] [World] [Info] Clearing inventory snapshots
+[12-18-2022 04:48:57] [World] [Info] Loading items
+[12-18-2022 04:48:57] [World] [Info] [Shared Memory] Attempting to load file [shared/items]
+[12-18-2022 04:48:57] [World] [Info] Loading skill caps
+[12-18-2022 04:48:57] [World] [Info] [Shared Memory] Attempting to load file [shared/skill_caps]
+[12-18-2022 04:48:57] [World] [Info] Loading guilds
+[12-18-2022 04:48:57] [World] [Info] Loaded default rule set [default]
+[12-18-2022 04:48:57] [World] [Info] Initialized dynamic dictionary entries
+[12-18-2022 04:48:57] [World] [Info] Clearing temporary merchant lists
+[12-18-2022 04:48:57] [World] [Info] Loading EQ time of day
+[12-18-2022 04:48:58] [World] [Info] Deleted [10] stale player corpses from database
+[12-18-2022 04:48:58] [World] [Info] Loading adventures
+[12-18-2022 04:48:58] [World] [Info] Purging expired dynamic zones and members
+[12-18-2022 04:48:58] [World] [Info] Purging expired expeditions
+[12-18-2022 04:48:58] [World] [Info] Purging expired character task timers
+[12-18-2022 04:48:58] [World] [Info] Purging expired instances
+[12-18-2022 04:48:59] [World] [Info] Loading dynamic zones
+[12-18-2022 04:48:59] [World] [Info] Loading char create info
+[12-18-2022 04:48:59] [World] [Info] Initializing [EventScheduler]
+[12-18-2022 04:48:59] [World] [Info] Initializing [WorldContentService]
+[12-18-2022 04:48:59] [World] [Info] Current expansion is [2] (The Scars of Velious)
+[12-18-2022 04:48:59] [World] [Info] Loaded content flag [peq_halloween] [Disabled]
+[12-18-2022 04:48:59] [World] [Info] Initializing [SharedTaskManager]
+[12-18-2022 04:48:59] [World] [Info] Loading launcher list
+[12-18-2022 04:48:59] [World] [Info] Server (TCP) listener started on port [9001]
+[12-18-2022 04:49:00] [World] [Info] Checking for possible configuration issues
+[12-18-2022 04:49:00] [World] [Info] To disable configuration checks, set [server.disable_config_checks] to [true] in [eqemu_config.json]
+[12-18-2022 04:49:00] [World] [Info] World config address using DNS [] resolves to [10.0.0.5]
+[12-18-2022 04:49:02] [World] [Info] New Zone Server connection from [127.0.0.1] at [58894:26b024c0-41a0-4639-9318-2de03fd9f573] zone_count (1)
+[12-18-2022 04:49:02] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:02] [World] [Info] Auto zone port configuration. Telling zone to use port [7000]
+[12-18-2022 04:49:02] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:02] [World] [Info] New Zone Server connection from [127.0.0.1] at [58895:2cb43553-6f3f-47c0-82ec-b417db51f559] zone_count (2)
+[12-18-2022 04:49:02] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:02] [World] [Info] Auto zone port configuration. Telling zone to use port [7001]
+[12-18-2022 04:49:02] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:02] [World] [Info] New Zone Server connection from [127.0.0.1] at [58884:bd9241c0-7883-47a3-9935-c4d7d5afc9bc] zone_count (3)
+[12-18-2022 04:49:02] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:02] [World] [Info] Auto zone port configuration. Telling zone to use port [7002]
+[12-18-2022 04:49:02] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:02] [World] [Info] New Zone Server connection from [127.0.0.1] at [58885:db1374f2-6ba8-4e36-91b5-3c577467c25a] zone_count (4)
+[12-18-2022 04:49:02] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:02] [World] [Info] Auto zone port configuration. Telling zone to use port [7003]
+[12-18-2022 04:49:02] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:02] [World] [Info] New Zone Server connection from [127.0.0.1] at [58897:8c6489bf-48af-4445-9cd1-e5d0d4bbb24e] zone_count (5)
+[12-18-2022 04:49:02] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:02] [World] [Info] Auto zone port configuration. Telling zone to use port [7004]
+[12-18-2022 04:49:02] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:02] [World] [Info] New Zone Server connection from [127.0.0.1] at [58898:cb40c0b5-804f-42ae-a31d-fa342e903fce] zone_count (6)
+[12-18-2022 04:49:02] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:02] [World] [Info] Auto zone port configuration. Telling zone to use port [7005]
+[12-18-2022 04:49:02] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:02] [World] [Info] New Zone Server connection from [127.0.0.1] at [58899:3edef071-936b-4280-a465-419cd4705582] zone_count (7)
+[12-18-2022 04:49:02] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:02] [World] [Info] Auto zone port configuration. Telling zone to use port [7006]
+[12-18-2022 04:49:02] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:02] [World] [Info] New Zone Server connection from [127.0.0.1] at [58887:36be7d41-6672-4c80-a053-50ecb3b53330] zone_count (8)
+[12-18-2022 04:49:03] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:03] [World] [Info] Auto zone port configuration. Telling zone to use port [7007]
+[12-18-2022 04:49:03] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:03] [World] [Info] New Zone Server connection from [127.0.0.1] at [58890:72bab145-49d5-419f-83be-70e02d2864a1] zone_count (9)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7008]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58891:bcee37bd-c166-4d7a-977a-26a6accab55a] zone_count (10)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7009]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58902:22e0a049-62e9-41dd-a9b4-c05bbc4cf388] zone_count (11)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7010]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58907:f3a01ce2-9ada-404c-84d1-aefc572c31e0] zone_count (12)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7011]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58908:559167b6-6968-4475-9d6c-769c608a3dff] zone_count (13)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7012]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58910:89c0a2b4-ba9c-458a-bd10-f6298dd4da17] zone_count (14)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7013]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58912:63eaf59c-2b20-41e7-97ee-20baab9df113] zone_count (15)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7014]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58914:afa4c040-4425-44aa-b8b4-a1f345cafe25] zone_count (16)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7015]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58915:16a49e30-b5fe-451c-bace-2a8e9426489b] zone_count (17)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7016]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58919:b5fbe64a-472f-4584-adbe-fa837082104b] zone_count (18)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7017]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58921:2a137b49-d2d3-4240-b672-aaa0192bc2fe] zone_count (19)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7018]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58922:5563d920-8cb0-45d5-8f50-22867ef2523c] zone_count (20)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7019]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58923:ed1000d5-2e18-43f3-879e-4558a0c9d174] zone_count (21)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7020]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58928:90c9ffb8-d355-4920-8957-b48e4588199e] zone_count (22)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7021]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58930:c8127bc0-88b9-46f1-9b35-baa94620d5d1] zone_count (23)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7022]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58931:7797d51c-305e-45d8-8b80-9a11ebdb1d8b] zone_count (24)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7023]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58933:5171c0b3-41bf-40da-96c0-188a9743b09f] zone_count (25)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7024]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58935:6c8d50b6-31d0-4652-96cf-5f20e4d810f0] zone_count (26)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7025]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58937:aa733c86-acb4-4995-bc79-115583c5d424] zone_count (27)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7026]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58938:966a3522-36b8-42c6-b2ee-8c94ca3ea990] zone_count (28)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7027]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58939:c4991b39-2cca-4730-9023-59a63499a99e] zone_count (29)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7028]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Zone Server connection from [127.0.0.1] at [58941:2165192f-b3ae-4a6f-83c7-29b1a776f1f7] zone_count (30)
+[12-18-2022 04:49:04] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 04:49:04] [World] [Info] Auto zone port configuration. Telling zone to use port [7029]
+[12-18-2022 04:49:04] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New Query Server connection from [127.0.0.1] at [58943:9d45508d-3157-4aa3-ad57-74db2ecd7c78]
+[12-18-2022 04:49:04] [World] [Info] Connected to Loginserver [127.0.0.1:5998]
+[12-18-2022 04:49:04] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [] remote_ip_address [] local_ip [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-18-2022 04:49:04] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [] local_ip [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] Connected to Loginserver [login.projecteq.net:5998]
+[12-18-2022 04:49:04] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [] remote_ip_address [] local_ip [20.102.88.155]
+[12-18-2022 04:49:04] [World] [Info] New UCS Server connection from [127.0.0.1] at [58947:3e3d5f54-5523-4cea-a3bd-c63a71f246e2]
+[12-18-2022 04:49:04] [World] [Info] Loginserver provided [20.102.88.155] as world address
+[12-18-2022 04:49:11] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:45789]
+[12-18-2022 04:49:11] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 04:49:11] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 04:49:11] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 04:49:11] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 04:49:11] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (3)
+[12-18-2022 04:49:11] [World] [Info] Account (bartuc1) Logging(In) to character select :: LSID [331073] 
+[12-18-2022 04:49:11] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (3)
+[12-18-2022 04:49:44] [World] [Info] Attempting autobootup of [freporte] ([10]:[0])
+[12-18-2022 04:49:44] [World] [Info] Setting zone process to Zone: East Freeport (freporte) ID: 10
+[12-18-2022 04:49:44] [World] [Info] (Nivek) [Zoning from character select] [freporte] (Zone ID [10]: Instance ID: [0]) 
+[12-18-2022 04:49:44] [World] [Info] Broadcasting a world time update
+[12-18-2022 04:49:44] [World] [Info] Setting zone process to Zone: East Freeport (freporte) ID: 10
+[12-18-2022 04:49:44] [World] [Info] Sending client to zone [freporte] ([10]:[0]) at [20.102.88.155]:[7000]
+[12-18-2022 04:49:44] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 04:49:44] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 04:49:44] [World] [Info] Removing client from [38.133.239.41]:[45789]
+[12-18-2022 04:49:58] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 04:49:58] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 04:50:28] [World] [Info] ZoneToZone request for [Nivek] current zone [10] req zone [69]
+[12-18-2022 04:50:28] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 04:50:28] [World] [Info] Successfully booted a zone for [Nivek]
+[12-18-2022 04:50:28] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 04:50:28] [World] [Info] Setting zone process to Zone: Ocean of Tears (oot) ID: 69
+[12-18-2022 04:50:28] [World] [Info] Broadcasting a world time update
+[12-18-2022 04:50:28] [World] [Info] ZoneToZone request for [Nivek] current zone [10] req zone [69]
+[12-18-2022 04:50:28] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [10]
+[12-18-2022 04:50:28] [World] [Info] Found egress server, forwarding client
+[12-18-2022 04:50:29] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:47837]
+[12-18-2022 04:50:29] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 04:50:29] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 04:50:29] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 04:50:29] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 04:50:29] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 04:50:29] [World] [Info] Telling client to continue session
+[12-18-2022 04:50:30] [World] [Info] (Nivek) [Zoning to] [oot] (Zone ID [69]: Instance ID: [0]) 
+[12-18-2022 04:50:30] [World] [Info] Sending client to zone [oot] ([69]:[0]) at [20.102.88.155]:[7001]
+[12-18-2022 04:50:30] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 04:50:30] [World] [Info] Setting zone process to Zone: Ocean of Tears (oot) ID: 69
+[12-18-2022 04:50:30] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 04:50:30] [World] [Info] Removing client from [38.133.239.41]:[47837]
+[12-18-2022 04:50:31] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 04:50:31] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 05:50:29] [World] [Info] Removed Zone Server connection from [26b024c0-41a0-4639-9318-2de03fd9f573] total zone_count [29]
+[12-18-2022 05:50:30] [World] [Info] New Zone Server connection from [127.0.0.1] at [59266:c782576f-00ca-4198-af99-71bdf595ef25] zone_count (30)
+[12-18-2022 05:50:30] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 05:50:30] [World] [Info] Auto zone port configuration. Telling zone to use port [7030]
+[12-18-2022 05:50:30] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 06:15:36] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [10]
+[12-18-2022 06:15:36] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 06:15:36] [World] [Info] Successfully booted a zone for [Nivek]
+[12-18-2022 06:15:36] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:15:36] [World] [Info] Setting zone process to Zone: East Freeport (freporte) ID: 10
+[12-18-2022 06:15:36] [World] [Info] Broadcasting a world time update
+[12-18-2022 06:15:36] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [10]
+[12-18-2022 06:15:37] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [69]
+[12-18-2022 06:15:37] [World] [Info] Found egress server, forwarding client
+[12-18-2022 06:15:37] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:3821]
+[12-18-2022 06:15:37] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 06:15:37] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 06:15:37] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 06:15:37] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 06:15:37] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 06:15:37] [World] [Info] Telling client to continue session
+[12-18-2022 06:15:38] [World] [Info] (Nivek) [Zoning to] [freporte] (Zone ID [10]: Instance ID: [0]) 
+[12-18-2022 06:15:38] [World] [Info] Sending client to zone [freporte] ([10]:[0]) at [20.102.88.155]:[7002]
+[12-18-2022 06:15:38] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:15:38] [World] [Info] Setting zone process to Zone: East Freeport (freporte) ID: 10
+[12-18-2022 06:15:39] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 06:15:39] [World] [Info] Removing client from [38.133.239.41]:[3821]
+[12-18-2022 06:15:40] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:15:40] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:24:08] [World] [Info] ZoneToZone request for [Nivek] current zone [10] req zone [69]
+[12-18-2022 06:24:08] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 06:24:08] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 06:24:08] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:24:08] [World] [Info] ZoneToZone request for [Nivek] current zone [10] req zone [69]
+[12-18-2022 06:24:08] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [10]
+[12-18-2022 06:24:08] [World] [Info] Found egress server, forwarding client
+[12-18-2022 06:24:09] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:1262]
+[12-18-2022 06:24:09] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 06:24:09] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 06:24:09] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 06:24:09] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 06:24:09] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 06:24:09] [World] [Info] Telling client to continue session
+[12-18-2022 06:24:10] [World] [Info] (Nivek) [Zoning to] [oot] (Zone ID [69]: Instance ID: [0]) 
+[12-18-2022 06:24:10] [World] [Info] Sending client to zone [oot] ([69]:[0]) at [20.102.88.155]:[7001]
+[12-18-2022 06:24:10] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:24:10] [World] [Info] Setting zone process to Zone: Ocean of Tears (oot) ID: 69
+[12-18-2022 06:24:10] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 06:24:10] [World] [Info] Removing client from [38.133.239.41]:[1262]
+[12-18-2022 06:24:11] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:24:11] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:26:50] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [10]
+[12-18-2022 06:26:50] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 06:26:50] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 06:26:50] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:26:50] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [10]
+[12-18-2022 06:26:50] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [69]
+[12-18-2022 06:26:50] [World] [Info] Found egress server, forwarding client
+[12-18-2022 06:26:51] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:58852]
+[12-18-2022 06:26:51] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 06:26:51] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 06:26:51] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 06:26:51] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 06:26:51] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 06:26:51] [World] [Info] Telling client to continue session
+[12-18-2022 06:26:52] [World] [Info] (Nivek) [Zoning to] [freporte] (Zone ID [10]: Instance ID: [0]) 
+[12-18-2022 06:26:52] [World] [Info] Sending client to zone [freporte] ([10]:[0]) at [20.102.88.155]:[7002]
+[12-18-2022 06:26:52] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:26:52] [World] [Info] Setting zone process to Zone: East Freeport (freporte) ID: 10
+[12-18-2022 06:26:53] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 06:26:53] [World] [Info] Removing client from [38.133.239.41]:[58852]
+[12-18-2022 06:26:54] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:26:54] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:30:12] [World] [Info] ZoneToZone request for [Nivek] current zone [10] req zone [69]
+[12-18-2022 06:30:12] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 06:30:12] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 06:30:12] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:30:12] [World] [Info] ZoneToZone request for [Nivek] current zone [10] req zone [69]
+[12-18-2022 06:30:12] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [10]
+[12-18-2022 06:30:12] [World] [Info] Found egress server, forwarding client
+[12-18-2022 06:30:13] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:62436]
+[12-18-2022 06:30:13] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 06:30:13] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 06:30:13] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 06:30:13] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 06:30:13] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 06:30:13] [World] [Info] Telling client to continue session
+[12-18-2022 06:30:14] [World] [Info] (Nivek) [Zoning to] [oot] (Zone ID [69]: Instance ID: [0]) 
+[12-18-2022 06:30:14] [World] [Info] Sending client to zone [oot] ([69]:[0]) at [20.102.88.155]:[7001]
+[12-18-2022 06:30:14] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:30:14] [World] [Info] Setting zone process to Zone: Ocean of Tears (oot) ID: 69
+[12-18-2022 06:30:14] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 06:30:14] [World] [Info] Removing client from [38.133.239.41]:[62436]
+[12-18-2022 06:30:15] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:30:15] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:30:22] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [10]
+[12-18-2022 06:30:22] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 06:30:22] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 06:30:22] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:30:22] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [10]
+[12-18-2022 06:30:22] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [69]
+[12-18-2022 06:30:22] [World] [Info] Found egress server, forwarding client
+[12-18-2022 06:30:23] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:63204]
+[12-18-2022 06:30:23] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 06:30:23] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 06:30:23] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 06:30:23] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 06:30:23] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 06:30:23] [World] [Info] Telling client to continue session
+[12-18-2022 06:30:24] [World] [Info] (Nivek) [Zoning to] [freporte] (Zone ID [10]: Instance ID: [0]) 
+[12-18-2022 06:30:24] [World] [Info] Sending client to zone [freporte] ([10]:[0]) at [20.102.88.155]:[7002]
+[12-18-2022 06:30:24] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:30:24] [World] [Info] Setting zone process to Zone: East Freeport (freporte) ID: 10
+[12-18-2022 06:30:25] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 06:30:25] [World] [Info] Removing client from [38.133.239.41]:[63204]
+[12-18-2022 06:30:26] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:30:26] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:30:36] [World] [Info] ZoneToZone request for [Nivek] current zone [10] req zone [69]
+[12-18-2022 06:30:36] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 06:30:36] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 06:30:36] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:30:36] [World] [Info] ZoneToZone request for [Nivek] current zone [10] req zone [69]
+[12-18-2022 06:30:36] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [10]
+[12-18-2022 06:30:36] [World] [Info] Found egress server, forwarding client
+[12-18-2022 06:30:37] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:63972]
+[12-18-2022 06:30:37] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 06:30:37] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 06:30:37] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 06:30:37] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 06:30:37] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 06:30:37] [World] [Info] Telling client to continue session
+[12-18-2022 06:30:38] [World] [Info] (Nivek) [Zoning to] [oot] (Zone ID [69]: Instance ID: [0]) 
+[12-18-2022 06:30:38] [World] [Info] Sending client to zone [oot] ([69]:[0]) at [20.102.88.155]:[7001]
+[12-18-2022 06:30:38] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:30:38] [World] [Info] Setting zone process to Zone: Ocean of Tears (oot) ID: 69
+[12-18-2022 06:30:39] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 06:30:39] [World] [Info] Removing client from [38.133.239.41]:[63972]
+[12-18-2022 06:30:40] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:30:40] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:30:53] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [68]
+[12-18-2022 06:30:53] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 06:30:53] [World] [Info] Successfully booted a zone for [Nivek]
+[12-18-2022 06:30:53] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:30:53] [World] [Info] Setting zone process to Zone: Butcherblock Mountains (butcher) ID: 68
+[12-18-2022 06:30:53] [World] [Info] Broadcasting a world time update
+[12-18-2022 06:30:53] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [68]
+[12-18-2022 06:30:53] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [69]
+[12-18-2022 06:30:53] [World] [Info] Found egress server, forwarding client
+[12-18-2022 06:30:53] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:64996]
+[12-18-2022 06:30:54] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 06:30:54] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 06:30:54] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 06:30:54] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 06:30:54] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 06:30:54] [World] [Info] Telling client to continue session
+[12-18-2022 06:30:55] [World] [Info] (Nivek) [Zoning to] [butcher] (Zone ID [68]: Instance ID: [0]) 
+[12-18-2022 06:30:55] [World] [Info] Sending client to zone [butcher] ([68]:[0]) at [20.102.88.155]:[7003]
+[12-18-2022 06:30:55] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:30:55] [World] [Info] Setting zone process to Zone: Butcherblock Mountains (butcher) ID: 68
+[12-18-2022 06:30:55] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 06:30:55] [World] [Info] Removing client from [38.133.239.41]:[64996]
+[12-18-2022 06:30:56] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:30:56] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:31:45] [World] [Info] ZoneToZone request for [Nivek] current zone [68] req zone [69]
+[12-18-2022 06:31:45] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 06:31:45] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 06:31:45] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:31:45] [World] [Info] ZoneToZone request for [Nivek] current zone [68] req zone [69]
+[12-18-2022 06:31:45] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [68]
+[12-18-2022 06:31:45] [World] [Info] Found egress server, forwarding client
+[12-18-2022 06:31:46] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:997]
+[12-18-2022 06:31:46] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 06:31:46] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 06:31:46] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 06:31:46] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 06:31:46] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 06:31:46] [World] [Info] Telling client to continue session
+[12-18-2022 06:31:47] [World] [Info] (Nivek) [Zoning to] [oot] (Zone ID [69]: Instance ID: [0]) 
+[12-18-2022 06:31:47] [World] [Info] Sending client to zone [oot] ([69]:[0]) at [20.102.88.155]:[7001]
+[12-18-2022 06:31:47] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:31:47] [World] [Info] Setting zone process to Zone: Ocean of Tears (oot) ID: 69
+[12-18-2022 06:31:48] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 06:31:48] [World] [Info] Removing client from [38.133.239.41]:[997]
+[12-18-2022 06:31:49] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:31:49] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:32:57] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [68]
+[12-18-2022 06:32:57] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 06:32:57] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 06:32:57] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [68]
+[12-18-2022 06:32:57] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [69]
+[12-18-2022 06:32:57] [World] [Info] Found egress server, forwarding client
+[12-18-2022 06:32:57] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:32:57] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:3045]
+[12-18-2022 06:32:57] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 06:32:57] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 06:32:57] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 06:32:57] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 06:32:57] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 06:32:57] [World] [Info] Telling client to continue session
+[12-18-2022 06:32:58] [World] [Info] (Nivek) [Zoning to] [butcher] (Zone ID [68]: Instance ID: [0]) 
+[12-18-2022 06:32:58] [World] [Info] Sending client to zone [butcher] ([68]:[0]) at [20.102.88.155]:[7003]
+[12-18-2022 06:32:58] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:32:58] [World] [Info] Setting zone process to Zone: Butcherblock Mountains (butcher) ID: 68
+[12-18-2022 06:32:59] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 06:32:59] [World] [Info] Removing client from [38.133.239.41]:[3045]
+[12-18-2022 06:33:00] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:33:00] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:34:51] [World] [Info] ZoneToZone request for [Nivek] current zone [68] req zone [10]
+[12-18-2022 06:34:51] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 06:34:51] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 06:34:51] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:34:51] [World] [Info] ZoneToZone request for [Nivek] current zone [68] req zone [10]
+[12-18-2022 06:34:51] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [68]
+[12-18-2022 06:34:51] [World] [Info] Found egress server, forwarding client
+[12-18-2022 06:34:51] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:23751]
+[12-18-2022 06:34:51] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 06:34:51] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 06:34:51] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 06:34:51] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 06:34:51] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 06:34:51] [World] [Info] Telling client to continue session
+[12-18-2022 06:34:53] [World] [Info] (Nivek) [Zoning to] [freporte] (Zone ID [10]: Instance ID: [0]) 
+[12-18-2022 06:34:53] [World] [Info] Sending client to zone [freporte] ([10]:[0]) at [20.102.88.155]:[7002]
+[12-18-2022 06:34:53] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 06:34:53] [World] [Info] Setting zone process to Zone: East Freeport (freporte) ID: 10
+[12-18-2022 06:34:53] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 06:34:53] [World] [Info] Removing client from [38.133.239.41]:[23751]
+[12-18-2022 06:34:54] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 06:34:54] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:03:22] [World] [Info] ZoneToZone request for [Nivek] current zone [10] req zone [69]
+[12-18-2022 07:03:22] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 07:03:22] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 07:03:22] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:03:22] [World] [Info] ZoneToZone request for [Nivek] current zone [10] req zone [69]
+[12-18-2022 07:03:22] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [10]
+[12-18-2022 07:03:22] [World] [Info] Found egress server, forwarding client
+[12-18-2022 07:03:22] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:52723]
+[12-18-2022 07:03:22] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:03:22] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:03:23] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:03:23] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:03:23] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 07:03:23] [World] [Info] Telling client to continue session
+[12-18-2022 07:03:24] [World] [Info] (Nivek) [Zoning to] [oot] (Zone ID [69]: Instance ID: [0]) 
+[12-18-2022 07:03:24] [World] [Info] Sending client to zone [oot] ([69]:[0]) at [20.102.88.155]:[7001]
+[12-18-2022 07:03:24] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:03:24] [World] [Info] Setting zone process to Zone: Ocean of Tears (oot) ID: 69
+[12-18-2022 07:03:24] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:03:24] [World] [Info] Removing client from [38.133.239.41]:[52723]
+[12-18-2022 07:03:25] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:03:25] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:03:36] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [68]
+[12-18-2022 07:03:36] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 07:03:36] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 07:03:36] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:03:36] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [68]
+[12-18-2022 07:03:36] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [69]
+[12-18-2022 07:03:36] [World] [Info] Found egress server, forwarding client
+[12-18-2022 07:03:36] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:34013]
+[12-18-2022 07:03:36] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:03:36] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:03:36] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:03:36] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:03:36] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 07:03:36] [World] [Info] Telling client to continue session
+[12-18-2022 07:03:37] [World] [Info] (Nivek) [Zoning to] [butcher] (Zone ID [68]: Instance ID: [0]) 
+[12-18-2022 07:03:37] [World] [Info] Sending client to zone [butcher] ([68]:[0]) at [20.102.88.155]:[7003]
+[12-18-2022 07:03:37] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:03:37] [World] [Info] Setting zone process to Zone: Butcherblock Mountains (butcher) ID: 68
+[12-18-2022 07:03:38] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:03:38] [World] [Info] Removing client from [38.133.239.41]:[34013]
+[12-18-2022 07:03:39] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:03:39] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:04:15] [World] [Info] ZoneToZone request for [Nivek] current zone [68] req zone [69]
+[12-18-2022 07:04:15] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 07:04:15] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 07:04:15] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:04:15] [World] [Info] ZoneToZone request for [Nivek] current zone [68] req zone [69]
+[12-18-2022 07:04:15] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [68]
+[12-18-2022 07:04:15] [World] [Info] Found egress server, forwarding client
+[12-18-2022 07:04:16] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:37341]
+[12-18-2022 07:04:16] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:04:16] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:04:16] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:04:16] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:04:16] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 07:04:16] [World] [Info] Telling client to continue session
+[12-18-2022 07:04:17] [World] [Info] (Nivek) [Zoning to] [oot] (Zone ID [69]: Instance ID: [0]) 
+[12-18-2022 07:04:17] [World] [Info] Sending client to zone [oot] ([69]:[0]) at [20.102.88.155]:[7001]
+[12-18-2022 07:04:17] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:04:17] [World] [Info] Setting zone process to Zone: Ocean of Tears (oot) ID: 69
+[12-18-2022 07:04:17] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:04:17] [World] [Info] Removing client from [38.133.239.41]:[37341]
+[12-18-2022 07:04:18] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:04:18] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:04:25] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [68]
+[12-18-2022 07:04:25] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 07:04:25] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 07:04:25] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:04:25] [World] [Info] ZoneToZone request for [Nivek] current zone [69] req zone [68]
+[12-18-2022 07:04:25] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [69]
+[12-18-2022 07:04:25] [World] [Info] Found egress server, forwarding client
+[12-18-2022 07:04:26] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:38109]
+[12-18-2022 07:04:26] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:04:26] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:04:26] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:04:26] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:04:26] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 07:04:26] [World] [Info] Telling client to continue session
+[12-18-2022 07:04:27] [World] [Info] (Nivek) [Zoning to] [butcher] (Zone ID [68]: Instance ID: [0]) 
+[12-18-2022 07:04:27] [World] [Info] Sending client to zone [butcher] ([68]:[0]) at [20.102.88.155]:[7003]
+[12-18-2022 07:04:27] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:04:27] [World] [Info] Setting zone process to Zone: Butcherblock Mountains (butcher) ID: 68
+[12-18-2022 07:04:27] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:04:27] [World] [Info] Removing client from [38.133.239.41]:[38109]
+[12-18-2022 07:04:29] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:04:29] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:04:48] [World] [Info] ZoneToZone request for [Nivek] current zone [68] req zone [96]
+[12-18-2022 07:04:48] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 07:04:48] [World] [Info] Successfully booted a zone for [Nivek]
+[12-18-2022 07:04:48] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:04:49] [World] [Info] Setting zone process to Zone: Timorous Deep (timorous) ID: 96
+[12-18-2022 07:04:49] [World] [Info] Broadcasting a world time update
+[12-18-2022 07:04:49] [World] [Info] ZoneToZone request for [Nivek] current zone [68] req zone [96]
+[12-18-2022 07:04:49] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [68]
+[12-18-2022 07:04:49] [World] [Info] Found egress server, forwarding client
+[12-18-2022 07:04:49] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:15611]
+[12-18-2022 07:04:49] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:04:49] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:04:49] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:04:49] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:04:49] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 07:04:49] [World] [Info] Telling client to continue session
+[12-18-2022 07:04:50] [World] [Info] (Nivek) [Zoning to] [timorous] (Zone ID [96]: Instance ID: [0]) 
+[12-18-2022 07:04:50] [World] [Info] Sending client to zone [timorous] ([96]:[0]) at [20.102.88.155]:[7004]
+[12-18-2022 07:04:50] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:04:50] [World] [Info] Setting zone process to Zone: Timorous Deep (timorous) ID: 96
+[12-18-2022 07:04:50] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:04:50] [World] [Info] Removing client from [38.133.239.41]:[15611]
+[12-18-2022 07:06:17] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:39919]
+[12-18-2022 07:06:17] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:06:17] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:06:17] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:06:17] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:06:17] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (3)
+[12-18-2022 07:06:17] [World] [Info] Account (bartuc1) Logging(In) to character select :: LSID [331073] 
+[12-18-2022 07:06:17] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (3)
+[12-18-2022 07:06:40] [World] [Info] (Nivek) [Zoning from character select] [timorous] (Zone ID [96]: Instance ID: [0]) 
+[12-18-2022 07:06:40] [World] [Info] Setting zone process to Zone: Timorous Deep (timorous) ID: 96
+[12-18-2022 07:06:40] [World] [Info] Sending client to zone [timorous] ([96]:[0]) at [20.102.88.155]:[7004]
+[12-18-2022 07:06:40] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:06:41] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:06:41] [World] [Info] Removing client from [38.133.239.41]:[39919]
+[12-18-2022 07:06:45] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:06:45] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:08:12] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (1)
+[12-18-2022 07:10:02] [World] [Info] ZoneToZone request for [Nivek] current zone [96] req zone [93]
+[12-18-2022 07:10:02] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 07:10:02] [World] [Info] Successfully booted a zone for [Nivek]
+[12-18-2022 07:10:02] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:10:02] [World] [Info] Setting zone process to Zone: The Overthere (overthere) ID: 93
+[12-18-2022 07:10:02] [World] [Info] Broadcasting a world time update
+[12-18-2022 07:10:02] [World] [Info] ZoneToZone request for [Nivek] current zone [96] req zone [93]
+[12-18-2022 07:10:02] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [96]
+[12-18-2022 07:10:02] [World] [Info] Found egress server, forwarding client
+[12-18-2022 07:10:02] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:14295]
+[12-18-2022 07:10:02] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:10:02] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:10:02] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:10:02] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:10:02] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 07:10:02] [World] [Info] Telling client to continue session
+[12-18-2022 07:10:03] [World] [Info] (Nivek) [Zoning to] [overthere] (Zone ID [93]: Instance ID: [0]) 
+[12-18-2022 07:10:03] [World] [Info] Sending client to zone [overthere] ([93]:[0]) at [20.102.88.155]:[7005]
+[12-18-2022 07:10:03] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:10:03] [World] [Info] Setting zone process to Zone: The Overthere (overthere) ID: 93
+[12-18-2022 07:10:04] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:10:04] [World] [Info] Removing client from [38.133.239.41]:[14295]
+[12-18-2022 07:10:05] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:10:05] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:13:39] [World] [Info] ZoneToZone request for [Nivek] current zone [93] req zone [37]
+[12-18-2022 07:13:39] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 07:13:39] [World] [Info] Successfully booted a zone for [Nivek]
+[12-18-2022 07:13:39] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:13:40] [World] [Info] Setting zone process to Zone: Oasis of Marr (oasis) ID: 37
+[12-18-2022 07:13:40] [World] [Info] Broadcasting a world time update
+[12-18-2022 07:13:40] [World] [Info] ZoneToZone request for [Nivek] current zone [93] req zone [37]
+[12-18-2022 07:13:40] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [93]
+[12-18-2022 07:13:40] [World] [Info] Found egress server, forwarding client
+[12-18-2022 07:13:40] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:53959]
+[12-18-2022 07:13:40] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:13:40] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:13:40] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:13:40] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:13:40] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 07:13:40] [World] [Info] Telling client to continue session
+[12-18-2022 07:13:41] [World] [Info] (Nivek) [Zoning to] [oasis] (Zone ID [37]: Instance ID: [0]) 
+[12-18-2022 07:13:41] [World] [Info] Sending client to zone [oasis] ([37]:[0]) at [20.102.88.155]:[7006]
+[12-18-2022 07:13:41] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:13:41] [World] [Info] Setting zone process to Zone: Oasis of Marr (oasis) ID: 37
+[12-18-2022 07:13:42] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:13:42] [World] [Info] Removing client from [38.133.239.41]:[53959]
+[12-18-2022 07:13:43] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:13:43] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:15:11] [World] [Info] ZoneToZone request for [Nivek] current zone [37] req zone [84]
+[12-18-2022 07:15:11] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 07:15:11] [World] [Info] Successfully booted a zone for [Nivek]
+[12-18-2022 07:15:11] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:15:11] [World] [Info] Setting zone process to Zone: Firiona Vie (firiona) ID: 84
+[12-18-2022 07:15:11] [World] [Info] Broadcasting a world time update
+[12-18-2022 07:15:11] [World] [Info] ZoneToZone request for [Nivek] current zone [37] req zone [84]
+[12-18-2022 07:15:11] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [37]
+[12-18-2022 07:15:11] [World] [Info] Found egress server, forwarding client
+[12-18-2022 07:15:11] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:16881]
+[12-18-2022 07:15:11] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:15:11] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:15:11] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:15:11] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:15:11] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 07:15:11] [World] [Info] Telling client to continue session
+[12-18-2022 07:15:12] [World] [Info] (Nivek) [Zoning to] [firiona] (Zone ID [84]: Instance ID: [0]) 
+[12-18-2022 07:15:12] [World] [Info] Sending client to zone [firiona] ([84]:[0]) at [20.102.88.155]:[7007]
+[12-18-2022 07:15:12] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:15:12] [World] [Info] Setting zone process to Zone: Firiona Vie (firiona) ID: 84
+[12-18-2022 07:15:13] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:15:13] [World] [Info] Removing client from [38.133.239.41]:[16881]
+[12-18-2022 07:15:14] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:15:14] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:16:56] [World] [Info] ZoneToZone request for [Nivek] current zone [84] req zone [96]
+[12-18-2022 07:16:56] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 07:16:56] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 07:16:56] [World] [Info] ZoneToZone request for [Nivek] current zone [84] req zone [96]
+[12-18-2022 07:16:56] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [84]
+[12-18-2022 07:16:56] [World] [Info] Found egress server, forwarding client
+[12-18-2022 07:16:56] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:16:57] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:32480]
+[12-18-2022 07:16:57] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:16:57] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:16:57] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:16:57] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:16:57] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 07:16:57] [World] [Info] Telling client to continue session
+[12-18-2022 07:16:58] [World] [Info] (Nivek) [Zoning to] [timorous] (Zone ID [96]: Instance ID: [0]) 
+[12-18-2022 07:16:58] [World] [Info] Sending client to zone [timorous] ([96]:[0]) at [20.102.88.155]:[7004]
+[12-18-2022 07:16:58] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:16:58] [World] [Info] Setting zone process to Zone: Timorous Deep (timorous) ID: 96
+[12-18-2022 07:16:59] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:16:59] [World] [Info] Removing client from [38.133.239.41]:[32480]
+[12-18-2022 07:17:01] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:17:01] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:22:10] [World] [Info] ZoneToZone request for [Nivek] current zone [96] req zone [37]
+[12-18-2022 07:22:10] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 07:22:10] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 07:22:10] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:22:10] [World] [Info] ZoneToZone request for [Nivek] current zone [96] req zone [37]
+[12-18-2022 07:22:10] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [96]
+[12-18-2022 07:22:10] [World] [Info] Found egress server, forwarding client
+[12-18-2022 07:22:10] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:32727]
+[12-18-2022 07:22:10] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:22:10] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:22:10] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:22:10] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:22:10] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 07:22:10] [World] [Info] Telling client to continue session
+[12-18-2022 07:22:11] [World] [Info] (Nivek) [Zoning to] [oasis] (Zone ID [37]: Instance ID: [0]) 
+[12-18-2022 07:22:11] [World] [Info] Sending client to zone [oasis] ([37]:[0]) at [20.102.88.155]:[7006]
+[12-18-2022 07:22:11] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:22:11] [World] [Info] Setting zone process to Zone: Oasis of Marr (oasis) ID: 37
+[12-18-2022 07:22:12] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:22:12] [World] [Info] Removing client from [38.133.239.41]:[32727]
+[12-18-2022 07:22:13] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:22:13] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:23:00] [World] [Info] ZoneToZone request for [Nivek] current zone [37] req zone [96]
+[12-18-2022 07:23:00] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 07:23:00] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 07:23:00] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:23:00] [World] [Info] ZoneToZone request for [Nivek] current zone [37] req zone [96]
+[12-18-2022 07:23:00] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [37]
+[12-18-2022 07:23:00] [World] [Info] Found egress server, forwarding client
+[12-18-2022 07:23:00] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:53755]
+[12-18-2022 07:23:01] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:23:01] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:23:01] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:23:01] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:23:01] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 07:23:01] [World] [Info] Telling client to continue session
+[12-18-2022 07:23:02] [World] [Info] (Nivek) [Zoning to] [timorous] (Zone ID [96]: Instance ID: [0]) 
+[12-18-2022 07:23:02] [World] [Info] Sending client to zone [timorous] ([96]:[0]) at [20.102.88.155]:[7004]
+[12-18-2022 07:23:02] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:23:02] [World] [Info] Setting zone process to Zone: Timorous Deep (timorous) ID: 96
+[12-18-2022 07:23:02] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:23:02] [World] [Info] Removing client from [38.133.239.41]:[53755]
+[12-18-2022 07:23:04] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:23:04] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:23:23] [World] [Info] ZoneToZone request for [Nivek] current zone [96] req zone [84]
+[12-18-2022 07:23:23] [World] [Info] Processing ZTZ for egress from zone for client [Nivek]
+[12-18-2022 07:23:23] [World] [Info] Found a zone already booted for [Nivek]
+[12-18-2022 07:23:23] [World] [Info] ZoneToZone request for [Nivek] current zone [96] req zone [84]
+[12-18-2022 07:23:23] [World] [Info] Processing ZTZ for ingress to zone for client [Nivek] instance_id [0] zone_id [96]
+[12-18-2022 07:23:23] [World] [Info] Found egress server, forwarding client
+[12-18-2022 07:23:23] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:23:23] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:8417]
+[12-18-2022 07:23:23] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:23:23] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:23:23] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 07:23:23] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-18-2022 07:23:23] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-18-2022 07:23:23] [World] [Info] Telling client to continue session
+[12-18-2022 07:23:25] [World] [Info] (Nivek) [Zoning to] [firiona] (Zone ID [84]: Instance ID: [0]) 
+[12-18-2022 07:23:25] [World] [Info] Sending client to zone [firiona] ([84]:[0]) at [20.102.88.155]:[7007]
+[12-18-2022 07:23:25] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-18-2022 07:23:25] [World] [Info] Setting zone process to Zone: Firiona Vie (firiona) ID: 84
+[12-18-2022 07:23:25] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:23:25] [World] [Info] Removing client from [38.133.239.41]:[8417]
+[12-18-2022 07:23:26] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:23:26] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-18-2022 07:26:24] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:30704]
+[12-18-2022 07:26:24] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:26:24] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:26:24] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [366789]
+[12-18-2022 07:26:24] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [366789] passed
+[12-18-2022 07:26:24] [World] [Client Login] ClientListEntry::SetOnline for [regrowth] (61) = [Online] (3)
+[12-18-2022 07:26:24] [World] [Info] Account (regrowth) Logging(In) to character select :: LSID [366789] 
+[12-18-2022 07:26:24] [World] [Client Login] ClientListEntry::SetOnline for [regrowth] (61) = [Online] (3)
+[12-18-2022 07:26:32] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:49887]
+[12-18-2022 07:26:32] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:26:32] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:26:32] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [366790]
+[12-18-2022 07:26:32] [World] [Info] Account Attempting to be created: [eqemu:regrowth2] status: 0
+[12-18-2022 07:26:32] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [366790] passed
+[12-18-2022 07:26:32] [World] [Client Login] ClientListEntry::SetOnline for [regrowth2] (65) = [Online] (3)
+[12-18-2022 07:26:32] [World] [Info] Account (regrowth2) Logging(In) to character select :: LSID [366790] 
+[12-18-2022 07:26:32] [World] [Client Login] ClientListEntry::SetOnline for [regrowth2] (65) = [Online] (3)
+[12-18-2022 07:26:41] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:11212]
+[12-18-2022 07:26:41] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:26:41] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:26:41] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [366791]
+[12-18-2022 07:26:41] [World] [Info] Account Attempting to be created: [eqemu:regrowth3] status: 0
+[12-18-2022 07:26:41] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [366791] passed
+[12-18-2022 07:26:41] [World] [Client Login] ClientListEntry::SetOnline for [regrowth3] (66) = [Online] (3)
+[12-18-2022 07:26:41] [World] [Info] Account (regrowth3) Logging(In) to character select :: LSID [366791] 
+[12-18-2022 07:26:41] [World] [Client Login] ClientListEntry::SetOnline for [regrowth3] (66) = [Online] (3)
+[12-18-2022 07:26:49] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:56051]
+[12-18-2022 07:26:49] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:26:49] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:26:49] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [366792]
+[12-18-2022 07:26:49] [World] [Info] Account Attempting to be created: [eqemu:regrowth4] status: 0
+[12-18-2022 07:26:49] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [366792] passed
+[12-18-2022 07:26:49] [World] [Client Login] ClientListEntry::SetOnline for [regrowth4] (67) = [Online] (3)
+[12-18-2022 07:26:49] [World] [Info] Account (regrowth4) Logging(In) to character select :: LSID [366792] 
+[12-18-2022 07:26:49] [World] [Client Login] ClientListEntry::SetOnline for [regrowth4] (67) = [Online] (3)
+[12-18-2022 07:26:58] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:33992]
+[12-18-2022 07:26:58] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:26:58] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:26:58] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [366794]
+[12-18-2022 07:26:58] [World] [Info] Account Attempting to be created: [eqemu:regrowth5] status: 0
+[12-18-2022 07:26:59] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [366794] passed
+[12-18-2022 07:26:59] [World] [Client Login] ClientListEntry::SetOnline for [regrowth5] (68) = [Online] (3)
+[12-18-2022 07:26:59] [World] [Info] Account (regrowth5) Logging(In) to character select :: LSID [366794] 
+[12-18-2022 07:26:59] [World] [Client Login] ClientListEntry::SetOnline for [regrowth5] (68) = [Online] (3)
+[12-18-2022 07:27:07] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:46792]
+[12-18-2022 07:27:07] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 07:27:07] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 07:27:07] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [366795]
+[12-18-2022 07:27:07] [World] [Info] Account Attempting to be created: [eqemu:regrowth6] status: 0
+[12-18-2022 07:27:07] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [366795] passed
+[12-18-2022 07:27:07] [World] [Client Login] ClientListEntry::SetOnline for [regrowth6] (69) = [Online] (3)
+[12-18-2022 07:27:07] [World] [Info] Account (regrowth6) Logging(In) to character select :: LSID [366795] 
+[12-18-2022 07:27:07] [World] [Client Login] ClientListEntry::SetOnline for [regrowth6] (69) = [Online] (3)
+[12-18-2022 07:28:35] [World] [Info] Name approval request. Name=[Fetch], race=[Ogre], class=[Warrior]
+[12-18-2022 07:28:35] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 72, `guild_id` = '5']
+[12-18-2022 07:28:35] [World] [Info] Could not put character [Fetch] into default Guild
+[12-18-2022 07:28:35] [World] [Info] Character creation request from [regrowth] LS#[366789] ([38.133.239.41]:[30704]) : 
+[12-18-2022 07:28:35] [World] [Info] Name: [Fetch]
+[12-18-2022 07:28:35] [World] [Info] STR  STA  AGI  DEX  WIS  INT  CHA    Total
+[12-18-2022 07:28:35] [World] [Info] Face: [3]  Eye colors: [255] [255]
+[12-18-2022 07:28:35] [World] [Info] Hairstyle: [255]  Haircolor: [255]
+[12-18-2022 07:28:35] [World] [Info] Beard: [255]  Beardcolor: [255]
+[12-18-2022 07:28:35] [World] [Info] Validating char creation info
+[12-18-2022 07:28:35] [World] [Info] Found 'SoFStartZoneID' rule setting: [-1]
+[12-18-2022 07:28:35] [World] [Info] SoF Start zone query: [SELECT x, y, z, heading, start_zone, bind_id, bind_x, bind_y, bind_z FROM start_zones WHERE zone_id = 49 AND player_class = 1 AND player_deity = 203 AND player_race = 10  AND (min_expansion <= 2 OR min_expansion = -1) AND (max_expansion >= 2 OR max_expansion = -1) AND ((content_flags IS NULL OR content_flags = ''))  AND ((content_flags_disabled IS NULL OR content_flags_disabled = '') OR CONCAT(',', content_flags_disabled, ',') REGEXP ',(peq_halloween),' ) ]
+
+[12-18-2022 07:28:35] [World] [Info] SoF Start zone query: [SELECT x, y, z, heading, start_zone, bind_id, bind_x, bind_y, bind_z FROM start_zones WHERE zone_id = 49 AND player_class = 1 AND player_deity = 203 AND player_race = 10  AND (min_expansion <= 2 OR min_expansion = -1) AND (max_expansion >= 2 OR max_expansion = -1) AND ((content_flags IS NULL OR content_flags = ''))  AND ((content_flags_disabled IS NULL OR content_flags_disabled = '') OR CONCAT(',', content_flags_disabled, ',') REGEXP ',(peq_halloween),' ) ]
+
+[12-18-2022 07:28:35] [World] [Info] Found starting location in start_zones
+[12-18-2022 07:28:35] [World] [Info] [GetZone] Failed to get zone by zone_id [0] version [0]
+[12-18-2022 07:28:35] [World] [Info] Character creation successful: [Fetch]
+[12-18-2022 07:28:35] [World] [Client Login] ClientListEntry::SetOnline for [regrowth] (61) = [Online] (3)
+[12-18-2022 07:28:35] [World] [Info] Attempting autobootup of [oggok] ([49]:[0])
+[12-18-2022 07:28:35] [World] [Info] Setting zone process to Zone: Oggok (oggok) ID: 49
+[12-18-2022 07:28:35] [World] [Info] (Fetch) [Zoning from character select] [oggok] (Zone ID [49]: Instance ID: [0]) 
+[12-18-2022 07:28:35] [World] [Info] Broadcasting a world time update
+[12-18-2022 07:28:35] [World] [Info] Setting zone process to Zone: Oggok (oggok) ID: 49
+[12-18-2022 07:28:35] [World] [Info] Sending client to zone [oggok] ([49]:[0]) at [20.102.88.155]:[7008]
+[12-18-2022 07:28:35] [World] [Client Login] ClientListEntry::SetOnline for [regrowth] (61) = [Online] (4)
+[12-18-2022 07:28:36] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:28:36] [World] [Info] Removing client from [38.133.239.41]:[30704]
+[12-18-2022 07:28:41] [World] [Client Login] ClientListEntry::SetOnline for [regrowth] (61) = [Online] (5)
+[12-18-2022 07:28:41] [World] [Client Login] ClientListEntry::SetOnline for [regrowth] (61) = [Online] (5)
+[12-18-2022 07:29:05] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:29:05] [World] [Info] Removing client from [38.133.239.41]:[46792]
+[12-18-2022 07:29:05] [World] [Client Login] ClientListEntry::SetOnline for [regrowth6] (69) = [Online] (1)
+[12-18-2022 07:29:07] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:29:07] [World] [Info] Removing client from [38.133.239.41]:[33992]
+[12-18-2022 07:29:07] [World] [Client Login] ClientListEntry::SetOnline for [regrowth5] (68) = [Online] (1)
+[12-18-2022 07:29:09] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:29:09] [World] [Info] Removing client from [38.133.239.41]:[56051]
+[12-18-2022 07:29:09] [World] [Client Login] ClientListEntry::SetOnline for [regrowth4] (67) = [Online] (1)
+[12-18-2022 07:29:10] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:29:10] [World] [Info] Removing client from [38.133.239.41]:[11212]
+[12-18-2022 07:29:10] [World] [Client Login] ClientListEntry::SetOnline for [regrowth3] (66) = [Online] (1)
+[12-18-2022 07:29:12] [World] [Info] Client disconnected (not active in process)
+[12-18-2022 07:29:12] [World] [Info] Removing client from [38.133.239.41]:[49887]
+[12-18-2022 07:29:12] [World] [Client Login] ClientListEntry::SetOnline for [regrowth2] (65) = [Online] (1)
+[12-18-2022 07:29:46] [World] [Client Login] ClientListEntry::SetOnline for [regrowth] (61) = [Online] (1)
+[12-18-2022 08:03:23] [World] [Info] Removed Zone Server connection from [bd9241c0-7883-47a3-9935-c4d7d5afc9bc] total zone_count [29]
+[12-18-2022 08:03:23] [World] [Info] New Zone Server connection from [127.0.0.1] at [61907:baa43ed8-6f13-43d8-b5e9-d0c89ad07b87] zone_count (30)
+[12-18-2022 08:03:23] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 08:03:23] [World] [Info] Auto zone port configuration. Telling zone to use port [7031]
+[12-18-2022 08:03:23] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 08:04:26] [World] [Info] New Zone Server connection from [127.0.0.1] at [61974:1dd77f85-ba91-403c-b0a3-d37f33f34071] zone_count (31)
+[12-18-2022 08:04:26] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 08:04:26] [World] [Info] Auto zone port configuration. Telling zone to use port [7032]
+[12-18-2022 08:04:26] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 08:04:26] [World] [Info] Removed Zone Server connection from [2cb43553-6f3f-47c0-82ec-b417db51f559] total zone_count [30]
+[12-18-2022 08:04:50] [World] [Info] Removed Zone Server connection from [db1374f2-6ba8-4e36-91b5-3c577467c25a] total zone_count [29]
+[12-18-2022 08:04:50] [World] [Info] New Zone Server connection from [127.0.0.1] at [61978:41f93d70-57e1-4e84-be51-be4d19f6d2c4] zone_count (30)
+[12-18-2022 08:04:50] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 08:04:50] [World] [Info] Auto zone port configuration. Telling zone to use port [7033]
+[12-18-2022 08:04:50] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 08:13:40] [World] [Info] Removed Zone Server connection from [cb40c0b5-804f-42ae-a31d-fa342e903fce] total zone_count [29]
+[12-18-2022 08:13:41] [World] [Info] New Zone Server connection from [127.0.0.1] at [62384:eec9fb63-0030-4061-8a3e-e28b2b42d8d5] zone_count (30)
+[12-18-2022 08:13:41] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 08:13:41] [World] [Info] Auto zone port configuration. Telling zone to use port [7034]
+[12-18-2022 08:13:41] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 08:23:01] [World] [Info] New Zone Server connection from [127.0.0.1] at [62680:80b2e05a-eab7-4171-921f-6d4f163155fd] zone_count (31)
+[12-18-2022 08:23:01] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 08:23:01] [World] [Info] Auto zone port configuration. Telling zone to use port [7035]
+[12-18-2022 08:23:01] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 08:23:02] [World] [Info] Removed Zone Server connection from [3edef071-936b-4280-a465-419cd4705582] total zone_count [30]
+[12-18-2022 08:23:24] [World] [Info] Removed Zone Server connection from [8c6489bf-48af-4445-9cd1-e5d0d4bbb24e] total zone_count [29]
+[12-18-2022 08:23:24] [World] [Info] New Zone Server connection from [127.0.0.1] at [62751:23e0af8b-ca47-404b-8a72-8fe21e3acec0] zone_count (30)
+[12-18-2022 08:23:24] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 08:23:24] [World] [Info] Auto zone port configuration. Telling zone to use port [7036]
+[12-18-2022 08:23:24] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 08:28:36] [World] [Info] New Zone Server connection from [127.0.0.1] at [62940:5ff360fb-e27f-4bb6-b645-cd26858718c3] zone_count (31)
+[12-18-2022 08:28:36] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 08:28:36] [World] [Info] Auto zone port configuration. Telling zone to use port [7037]
+[12-18-2022 08:28:36] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 08:28:36] [World] [Info] Removed Zone Server connection from [72bab145-49d5-419f-83be-70e02d2864a1] total zone_count [30]
+[12-18-2022 09:17:02] [World] [Info] Connected to Loginserver [login.projecteq.net:5998]
+[12-18-2022 09:17:02] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-18-2022 10:00:03] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-18-2022 10:00:03] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [20.102.88.155] local_ip [20.102.88.155]
+[12-18-2022 11:24:39] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (1)
+[12-18-2022 12:16:58] [World] [Info] New Zone Server connection from [127.0.0.1] at [53289:31e05b66-7df0-4484-aeb2-6e4029a28621] zone_count (31)
+[12-18-2022 12:16:58] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-18-2022 12:16:58] [World] [Info] Auto zone port configuration. Telling zone to use port [7038]
+[12-18-2022 12:16:58] [World] [Info] Zone specified local address [20.102.88.155]
+[12-18-2022 12:16:58] [World] [Info] Removed Zone Server connection from [36be7d41-6672-4c80-a053-50ecb3b53330] total zone_count [30]
+[12-18-2022 17:06:10] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:1509]
+[12-18-2022 17:06:10] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 17:06:10] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 17:06:10] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 17:06:10] [World] [Info] Bad/Expired session key [331073]
+[12-18-2022 17:06:10] [World] [Info] Removing client from [38.133.239.41]:[1509]
+[12-18-2022 17:06:12] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:1509]
+[12-18-2022 17:06:12] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 17:06:12] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 17:06:12] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 17:06:12] [World] [Info] Bad/Expired session key [331073]
+[12-18-2022 17:06:12] [World] [Info] Removing client from [38.133.239.41]:[1509]
+[12-18-2022 17:06:15] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:1509]
+[12-18-2022 17:06:15] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-18-2022 17:06:15] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-18-2022 17:06:15] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-18-2022 17:06:15] [World] [Info] Bad/Expired session key [331073]
+[12-18-2022 17:06:15] [World] [Info] Removing client from [38.133.239.41]:[1509]

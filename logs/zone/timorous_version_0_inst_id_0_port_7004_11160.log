@@ -1,0 +1,43 @@
+[12-18-2022 07:04:49] [Zone] [Info] [WorldServer::HandleMessage] Received Message SyncWorldTime
+[12-18-2022 07:04:49] [Zone] [Info] Time Broadcast Packet: EQTime [05:13 pm]
+[12-18-2022 07:04:49] [Zone] [Info] UCS Server is now [online]
+[12-18-2022 07:04:50] [Zone] [Info] New connection from IP 38.133.239.41:16123
+[12-18-2022 07:04:51] [Zone] [Info] New client from [38.133.239.41]:[16123]
+[12-18-2022 07:05:51] [Zone] [Info] Client linkdead: Nivek
+[12-18-2022 07:05:51] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[16123]
+[12-18-2022 07:06:41] [Zone] [Info] New connection from IP 38.133.239.41:40943
+[12-18-2022 07:06:41] [Zone] [Info] New client from [38.133.239.41]:[40943]
+[12-18-2022 07:06:45] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 07:06:45] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 07:06:45] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 07:10:01] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [93] x [0] y [0] z [0] heading [0] ignorerestrictions [0] zone_mode [0]
+[12-18-2022 07:10:01] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 07:10:01] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 07:10:01] [Zone] [Info] Zoning [Nivek] to: [overthere] ([93]) - ([0]) x [1450] y [-3500] z [309]
+[12-18-2022 07:10:02] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [54 Minutes and 47 Seconds] duration [1 Hour] zone [PID (11160) Timorous Deep (96)]
+[12-18-2022 07:10:02] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[40943]
+[12-18-2022 07:16:59] [Zone] [Info] New connection from IP 38.133.239.41:32992
+[12-18-2022 07:16:59] [Zone] [Info] New client from [38.133.239.41]:[32992]
+[12-18-2022 07:17:01] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 07:17:01] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 07:17:01] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 07:22:09] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [37] x [-844.34] y [885.26] z [1.37] heading [0] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 07:22:10] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 07:22:10] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 07:22:10] [Zone] [Info] Zoning [Nivek] to: [oasis] ([37]) - ([0]) x [-844.34] y [885.26] z [1.37]
+[12-18-2022 07:22:10] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [47 Minutes and 52 Seconds] duration [1 Hour] zone [PID (11160) Timorous Deep (96)]
+[12-18-2022 07:22:10] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[32992]
+[12-18-2022 07:23:02] [Zone] [Info] New connection from IP 38.133.239.41:54267
+[12-18-2022 07:23:02] [Zone] [Info] New client from [38.133.239.41]:[54267]
+[12-18-2022 07:23:04] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 07:23:04] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 07:23:04] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 07:23:22] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [84] x [1390.31] y [-4177.66] z [-102.75] heading [0] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 07:23:23] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 07:23:23] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 07:23:23] [Zone] [Info] Zoning [Nivek] to: [firiona] ([84]) - ([0]) x [1390.31] y [-4177.66] z [-102.75]
+[12-18-2022 07:23:23] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [58 Minutes and 47 Seconds] duration [1 Hour] zone [PID (11160) Timorous Deep (96)]
+[12-18-2022 07:23:23] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[54267]
+[12-18-2022 08:23:23] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [1 Hour] duration [1 Hour] zone [PID (11160) Timorous Deep (96)]
+[12-18-2022 08:23:23] [Zone] [Info] [Zone Shutdown] Zone [timorous] zone_id [96] version [0] instance_id [0]
+[12-18-2022 08:23:23] [Zone] [Info] [Zone Shutdown] Zone [timorous] zone_id [96] version [0] instance_id [0] Going to sleep

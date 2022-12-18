@@ -1,0 +1,105 @@
+[12-07-2022 07:29:52] [Zone] [Crash] EXCEPTION_ACCESS_VIOLATION
+[12-07-2022 07:29:52] [Zone] [Crash] SymInit: Symbol-SearchPath: '.;C:\eqemu\eqemu_installer_files_x64;C:\eqemu\eqemu_installer_files_x64\bin;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'projecteq' 
+[12-07-2022 07:29:52] [Zone] [Crash] OS-Version: 6.2.9200 () 0x100-0x1 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\eqemu\eqemu_installer_files_x64\bin\zone.exe:zone.exe (00007FF7A9890000), size: 19410944 (result: 0), SymType: '-nosymbols-', PDB: 'C:\eqemu\eqemu_installer_files_x64\bin\zone.exe' 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FF849610000), size: 2064384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 6.2.19041.2130 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FF849220000), size: 782336 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNEL32.DLL', fileVersion: 6.2.19041.2251 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FF847120000), size: 2957312 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNELBASE.dll', fileVersion: 6.2.19041.2193 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FF848AC0000), size: 438272 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WS2_32.dll', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FF8482B0000), size: 1200128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\RPCRT4.dll', fileVersion: 6.2.19041.1806 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (00007FF848DA0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\PSAPI.DLL', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FF848B30000), size: 712704 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ADVAPI32.dll', fileVersion: 6.2.19041.2130 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FF847870000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcrt.dll', fileVersion: 7.0.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\sechost.dll:sechost.dll (00007FF8493B0000), size: 638976 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\sechost.dll', fileVersion: 6.2.19041.1865 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\USER32.dll:USER32.dll (00007FF8479C0000), size: 1691648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\USER32.dll', fileVersion: 6.2.19041.2130 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\win32u.dll:win32u.dll (00007FF847520000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\win32u.dll', fileVersion: 6.2.19041.2251 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\GDI32.dll:GDI32.dll (00007FF847660000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\GDI32.dll', fileVersion: 6.2.19041.2130 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FF847550000), size: 1110016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\gdi32full.dll', fileVersion: 6.2.19041.2130 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FF847400000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcp_win.dll', fileVersion: 6.2.19041.789 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FF847020000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ucrtbase.dll', fileVersion: 6.2.19041.789 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\ole32.dll:ole32.dll (00007FF847690000), size: 1220608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ole32.dll', fileVersion: 6.2.19041.1202 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\combase.dll:combase.dll (00007FF848540000), size: 3489792 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\combase.dll', fileVersion: 6.2.19041.2130 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FF846EC0000), size: 1400832 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CRYPT32.dll', fileVersion: 6.2.19041.1889 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\eqemu\eqemu_installer_files_x64\bin\lua51.dll:lua51.dll (00007FF83D280000), size: 724992 (result: 0), SymType: '-exported-', PDB: 'C:\eqemu\eqemu_installer_files_x64\bin\lua51.dll' 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\eqemu\eqemu_installer_files_x64\bin\libmariadb.dll:libmariadb.dll (00007FF83E6C0000), size: 274432 (result: 0), SymType: '-exported-', PDB: 'C:\eqemu\eqemu_installer_files_x64\bin\libmariadb.dll', fileVersion: 3.0.0.7 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FF848A60000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHLWAPI.dll', fileVersion: 6.2.19041.2075 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\eqemu\eqemu_installer_files_x64\bin\zlib-ng1.dll:zlib-ng1.dll (00007FF83FFC0000), size: 172032 (result: 0), SymType: '-exported-', PDB: 'C:\eqemu\eqemu_installer_files_x64\bin\zlib-ng1.dll', fileVersion: 2.0.0.0 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\eqemu\eqemu_installer_files_x64\bin\libssl-1_1-x64.dll:libssl-1_1-x64.dll (00007FF83E390000), size: 708608 (result: 0), SymType: '-exported-', PDB: 'C:\eqemu\eqemu_installer_files_x64\bin\libssl-1_1-x64.dll', fileVersion: 1.1.1.12 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\eqemu\eqemu_installer_files_x64\bin\libcrypto-1_1-x64.dll:libcrypto-1_1-x64.dll (00007FF825DE0000), size: 3514368 (result: 0), SymType: '-exported-', PDB: 'C:\eqemu\eqemu_installer_files_x64\bin\libcrypto-1_1-x64.dll', fileVersion: 1.1.1.12 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FF8474F0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcrypt.dll', fileVersion: 6.2.19041.1023 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Strawberry\perl\bin\perl524.dll:perl524.dll (000000006DAC0000), size: 1912832 (result: 0), SymType: '-exported-', PDB: 'C:\Strawberry\perl\bin\perl524.dll' 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FF8460E0000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 6.2.19041.1865 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (00007FF846BD0000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USERENV.dll', fileVersion: 6.2.19041.572 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FF83D5B0000), size: 593920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVCP140.dll', fileVersion: 14.25.28508.3 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FF83A290000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FF8446D0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VCRUNTIME140.dll', fileVersion: 14.25.28508.3 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FF8446C0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VCRUNTIME140_1.dll', fileVersion: 14.25.28508.3 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\eqemu\eqemu_installer_files_x64\bin\zlib1.dll:zlib1.dll (00007FF8405C0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\eqemu\eqemu_installer_files_x64\bin\zlib1.dll', fileVersion: 1.2.11.0 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_792d1c772443f647\COMCTL32.dll:COMCTL32.dll (00007FF828330000), size: 720896 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_792d1c772443f647\COMCTL32.dll', fileVersion: 5.82.19041.1110 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Strawberry\c\bin\libgcc_s_sjlj-1.dll:libgcc_s_sjlj-1.dll (000000006CEC0000), size: 507904 (result: 0), SymType: '-exported-', PDB: 'C:\Strawberry\c\bin\libgcc_s_sjlj-1.dll' 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Strawberry\c\bin\libstdc++-6.dll:libstdc++-6.dll (000000006FC40000), size: 1249280 (result: 0), SymType: '-exported-', PDB: 'C:\Strawberry\c\bin\libstdc++-6.dll' 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Strawberry\c\bin\libwinpthread-1.dll:libwinpthread-1.dll (0000000064940000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\Strawberry\c\bin\libwinpthread-1.dll', fileVersion: 1.0.0.0 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\IMM32.DLL:IMM32.DLL (00007FF848BE0000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\IMM32.DLL', fileVersion: 6.2.19041.2193 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\system32\napinsp.dll:napinsp.dll (00007FF82AD30000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\napinsp.dll', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\system32\pnrpnsp.dll:pnrpnsp.dll (00007FF82AD10000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\pnrpnsp.dll', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\system32\wshbth.dll:wshbth.dll (00007FF844570000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wshbth.dll', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\system32\NLAapi.dll:NLAapi.dll (00007FF83B700000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\NLAapi.dll', fileVersion: 6.2.19041.2193 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\mswsock.dll:mswsock.dll (00007FF8463F0000), size: 434176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\mswsock.dll', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FF846120000), size: 827392 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 6.2.19041.1865 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\NSI.dll:NSI.dll (00007FF848C80000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\NSI.dll', fileVersion: 6.2.19041.610 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\winrnr.dll:winrnr.dll (00007FF82ACF0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\winrnr.dll', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FF83FA00000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\rasadhlp.dll', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Strawberry\perl\lib\auto\List\Util\Util.xs.dll:Util.xs.dll (000000006F200000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Strawberry\perl\lib\auto\List\Util\Util.xs.dll' 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Strawberry\perl\vendor\lib\auto\DBI\DBI.xs.dll:DBI.xs.dll (000000006BDC0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Strawberry\perl\vendor\lib\auto\DBI\DBI.xs.dll' 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Strawberry\perl\vendor\lib\auto\DBD\mysql\mysql.xs.dll:mysql.xs.dll (0000000066680000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Strawberry\perl\vendor\lib\auto\DBD\mysql\mysql.xs.dll' 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Strawberry\c\bin\libmysql__.dll:libmysql__.dll (00007FF815B10000), size: 5873664 (result: 0), SymType: '-exported-', PDB: 'C:\Strawberry\c\bin\libmysql__.dll', fileVersion: 5.7.16.0 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\Secur32.dll:Secur32.dll (00007FF840970000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\Secur32.dll', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FF846C00000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SSPICLI.DLL', fileVersion: 6.2.19041.2130 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Strawberry\perl\vendor\lib\auto\JSON\XS\XS.xs.dll:XS.xs.dll (0000000067AC0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Strawberry\perl\vendor\lib\auto\JSON\XS\XS.xs.dll' 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Strawberry\perl\lib\auto\attributes\attributes.xs.dll:attributes.xs.dll (00000000616C0000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Strawberry\perl\lib\auto\attributes\attributes.xs.dll' 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (00007FF846B80000), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\powrprof.dll', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FF846B60000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\UMPDC.dll' 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FF8445E0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcore.dll', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\CRYPTBASE.DLL:CRYPTBASE.DLL (00007FF846600000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTBASE.DLL', fileVersion: 6.2.19041.546 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FF846D80000), size: 532480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcryptPrimitives.dll', fileVersion: 6.2.19041.1415 
+[12-07-2022 07:29:52] [Zone] [Crash] C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF840A50000), size: 1982464 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 6.2.19041.867 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF7AA285E65) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7AA285E65) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF7AA285E65 (zone): (filename not available): (function-name not available) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF7AA27E28C) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7AA27E28C) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF7AA27E28C (zone): (filename not available): (function-name not available) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF7AA26A349) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7AA26A349) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF7AA26A349 (zone): (filename not available): (function-name not available) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF7AA3F87FF) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7AA3F87FF) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF7AA3F87FF (zone): (filename not available): (function-name not available) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF7AA3F8B23) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7AA3F8B23) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF7AA3F8B23 (zone): (filename not available): (function-name not available) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF7AA3F5B64) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7AA3F5B64) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF7AA3F5B64 (zone): (filename not available): (function-name not available) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF7AA3F4A0D) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7AA3F4A0D) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF7AA3F4A0D (zone): (filename not available): (function-name not available) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF7AA4F980B) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7AA4F980B) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF7AA4F980B (zone): (filename not available): (function-name not available) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF7AA4F1227) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7AA4F1227) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF7AA4F1227 (zone): (filename not available): (function-name not available) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF7AA4F1517) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7AA4F1517) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF7AA4F1517 (zone): (filename not available): (function-name not available) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF7A9F70533) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7A9F70533) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF7A9F70533 (zone): (filename not available): (function-name not available) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF7AA53E9EC) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7AA53E9EC) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF7AA53E9EC (zone): (filename not available): (function-name not available) 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF8492374B4) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF8492374B4 (KERNEL32): (filename not available): BaseThreadInitThunk 
+[12-07-2022 07:29:52] [Zone] [Crash] ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF8496626A1) 
+[12-07-2022 07:29:52] [Zone] [Crash] 00007FF8496626A1 (ntdll): (filename not available): RtlUserThreadStart 

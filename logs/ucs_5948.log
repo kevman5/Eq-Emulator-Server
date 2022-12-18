@@ -1,0 +1,9 @@
+[12-18-2022 04:49:04] [UCS] [Info] Loaded default rule set 'default'
+[12-18-2022 04:49:04] [UCS] [Info] Initialized dynamic dictionary entries
+[12-18-2022 04:49:04] [UCS] [Info] Expiring mail
+[12-18-2022 04:49:04] [UCS] [Info] There are [0] messages in the database
+[12-18-2022 04:49:04] [UCS] [Info] Expired [0] trash messages
+[12-18-2022 04:49:04] [UCS] [Info] Expired [0] read messages
+[12-18-2022 04:49:04] [UCS] [Info] Expired [0] unread messages
+[12-18-2022 04:49:04] [UCS] [Info] Loading [C:\eqemu\eqemu_installer_files_x64/assets/opcodes/mail_opcodes.conf]
+[12-18-2022 04:49:04] [UCS] [Info] Loading chat channels from the database

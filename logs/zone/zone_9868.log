@@ -1,0 +1,37 @@
+[12-18-2022 04:48:59] [Zone] [Info] CURRENT_VERSION: 2.0
+[12-18-2022 04:48:59] [Zone] [Info] Mapping Incoming Opcodes
+[12-18-2022 04:48:59] [Zone] [Info] Loading Variables
+[12-18-2022 04:48:59] [Zone] [Info] Loading zone names
+[12-18-2022 04:48:59] [Zone] [Info] [ZoneStore] Loaded [593] zones
+[12-18-2022 04:48:59] [Zone] [Info] Loading items
+[12-18-2022 04:48:59] [Zone] [Info] [Shared Memory] Attempting to load file [shared/items]
+[12-18-2022 04:48:59] [Zone] [Info] Loading npc faction lists
+[12-18-2022 04:48:59] [Zone] [Info] [Shared Memory] Attempting to load file [shared/faction]
+[12-18-2022 04:48:59] [Zone] [Info] Loading faction association hits
+[12-18-2022 04:48:59] [Zone] [Info] Loading loot tables
+[12-18-2022 04:48:59] [Zone] [Info] Loading skill caps
+[12-18-2022 04:48:59] [Zone] [Info] [Shared Memory] Attempting to load file [shared/skill_caps]
+[12-18-2022 04:48:59] [Zone] [Info] Loading spells
+[12-18-2022 04:48:59] [Zone] [Info] [Shared Memory] Attempting to load file [shared/spells]
+[12-18-2022 04:48:59] [Zone] [Info] Loading base data
+[12-18-2022 04:48:59] [Zone] [Info] Loading guilds
+[12-18-2022 04:48:59] [Zone] [Info] Loading factions
+[12-18-2022 04:48:59] [Zone] [Info] [2105] Faction(s) loaded...
+[12-18-2022 04:48:59] [Zone] [Info] [610] Faction Base(s) loaded...
+[12-18-2022 04:48:59] [Zone] [Info] [8802] Faction Modifier(s) loaded
+[12-18-2022 04:48:59] [Zone] [Info] Loading titles
+[12-18-2022 04:48:59] [Zone] [Info] Loading tributes
+[12-18-2022 04:48:59] [Zone] [Info] Loading corpse timers
+[12-18-2022 04:48:59] [Zone] [Info] Loading profanity list
+[12-18-2022 04:48:59] [Zone] [Info] Loading commands
+[12-18-2022 04:48:59] [Zone] [Info] 277 commands loaded
+[12-18-2022 04:48:59] [Zone] [Info] Loaded default rule set 'default'
+[12-18-2022 04:48:59] [Zone] [Info] Initialized dynamic dictionary entries
+[12-18-2022 04:48:59] [Zone] [Info] Current expansion is [2] (The Scars of Velious)
+[12-18-2022 04:48:59] [Zone] [Info] Loaded content flag [peq_halloween] [Disabled]
+[12-18-2022 04:48:59] [Zone] [Info] Loading Perl Event Export Settings...
+[12-18-2022 04:48:59] [Zone] [Info] Loading quests
+[12-18-2022 04:49:00] [Zone] [Info] Entering sleep mode
+[12-18-2022 04:49:04] [Zone] [Info] World assigned Port: [7013] for this zone
+[12-18-2022 04:49:04] [Zone] [Info] Websocket Server listener started ([0.0.0.0]:[7013])
+[12-18-2022 04:49:04] [Zone] [Info] Starting EQ Network server on port 7013

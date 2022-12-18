@@ -1,0 +1,240 @@
+[12-14-2022 13:49:06] [World] [Info] Loading variables
+[12-14-2022 13:49:06] [World] [Info] Purging expired data buckets
+[12-14-2022 13:49:06] [World] [Info] Loading zones
+[12-14-2022 13:49:06] [World] [Info] [ZoneStore] Loaded [593] zones
+[12-14-2022 13:49:06] [World] [Info] Clearing groups
+[12-14-2022 13:49:06] [World] [Info] Clearing raids
+[12-14-2022 13:49:06] [World] [Info] Clearing inventory snapshots
+[12-14-2022 13:49:06] [World] [Info] Loading items
+[12-14-2022 13:49:06] [World] [Info] [Shared Memory] Attempting to load file [shared/items]
+[12-14-2022 13:49:06] [World] [Info] Loading skill caps
+[12-14-2022 13:49:06] [World] [Info] [Shared Memory] Attempting to load file [shared/skill_caps]
+[12-14-2022 13:49:06] [World] [Info] Loading guilds
+[12-14-2022 13:49:06] [World] [Info] Loaded default rule set [default]
+[12-14-2022 13:49:06] [World] [Info] Initialized dynamic dictionary entries
+[12-14-2022 13:49:06] [World] [Info] Clearing temporary merchant lists
+[12-14-2022 13:49:06] [World] [Info] Loading EQ time of day
+[12-14-2022 13:49:06] [World] [Info] Deleted [0] stale player corpses from database
+[12-14-2022 13:49:06] [World] [Info] Loading adventures
+[12-14-2022 13:49:06] [World] [Info] Purging expired dynamic zones and members
+[12-14-2022 13:49:06] [World] [Info] Purging expired expeditions
+[12-14-2022 13:49:06] [World] [Info] Purging expired character task timers
+[12-14-2022 13:49:06] [World] [Info] Purging expired instances
+[12-14-2022 13:49:06] [World] [Info] Loading dynamic zones
+[12-14-2022 13:49:06] [World] [Info] Loading char create info
+[12-14-2022 13:49:06] [World] [Info] Initializing [EventScheduler]
+[12-14-2022 13:49:06] [World] [Info] Initializing [WorldContentService]
+[12-14-2022 13:49:06] [World] [Info] Current expansion is [2] (The Scars of Velious)
+[12-14-2022 13:49:06] [World] [Info] Loaded content flag [peq_halloween] [Disabled]
+[12-14-2022 13:49:06] [World] [Info] Initializing [SharedTaskManager]
+[12-14-2022 13:49:06] [World] [Info] Loading launcher list
+[12-14-2022 13:49:06] [World] [Info] Server (TCP) listener started on port [9001]
+[12-14-2022 13:49:06] [World] [Info] Checking for possible configuration issues
+[12-14-2022 13:49:06] [World] [Info] To disable configuration checks, set [server.disable_config_checks] to [true] in [eqemu_config.json]
+[12-14-2022 13:49:06] [World] [Info] World config address using DNS [] resolves to [10.0.0.5]
+[12-14-2022 13:49:06] [World] [Info] Connected to Loginserver [127.0.0.1:5998]
+[12-14-2022 13:49:07] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [] remote_ip_address [] local_ip [20.102.88.155]
+[12-14-2022 13:49:07] [World] [Info] Connected to Legacy Loginserver: [login.eqemulator.net:5998]
+[12-14-2022 13:49:07] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [root] remote_ip_address [] local_ip [20.102.88.155]
+[12-14-2022 13:49:07] [World] [Info] Connected to Loginserver [login.projecteq.net:5998]
+[12-14-2022 13:49:07] [World] [Info] [LoginServer::SendInfo] protocol_version [0.3.10] server_version [0.8.0] long_name [Project Gate [Velious]] short_name [ProjGate] account_name [] remote_ip_address [] local_ip [20.102.88.155]
+[12-14-2022 13:49:07] [World] [Info] Loginserver provided [20.102.88.155] as world address
+[12-14-2022 13:49:07] [World] [Info] New Zone Server connection from [127.0.0.1] at [58085:90877428-d049-4a9a-b59b-e692405a8410] zone_count (1)
+[12-14-2022 13:49:08] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:08] [World] [Info] Auto zone port configuration. Telling zone to use port [7000]
+[12-14-2022 13:49:08] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:08] [World] [Info] New Zone Server connection from [127.0.0.1] at [58086:5089d737-403f-49ec-b7b0-c556ed317947] zone_count (2)
+[12-14-2022 13:49:08] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:08] [World] [Info] Auto zone port configuration. Telling zone to use port [7001]
+[12-14-2022 13:49:08] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:09] [World] [Info] New Zone Server connection from [127.0.0.1] at [58088:75b96964-52fc-4f90-97ef-837d9e9de39e] zone_count (3)
+[12-14-2022 13:49:09] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:09] [World] [Info] Auto zone port configuration. Telling zone to use port [7002]
+[12-14-2022 13:49:09] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:09] [World] [Info] New Zone Server connection from [127.0.0.1] at [58090:6ca94238-3214-4412-b470-c68d7554691b] zone_count (4)
+[12-14-2022 13:49:09] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:09] [World] [Info] Auto zone port configuration. Telling zone to use port [7003]
+[12-14-2022 13:49:10] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:10] [World] [Info] New Zone Server connection from [127.0.0.1] at [58093:60e6b873-aa11-446c-ad6d-699c12408081] zone_count (5)
+[12-14-2022 13:49:10] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:10] [World] [Info] Auto zone port configuration. Telling zone to use port [7004]
+[12-14-2022 13:49:10] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:11] [World] [Info] New Zone Server connection from [127.0.0.1] at [58094:f2ad427a-3a8c-4497-bb34-9071161b2871] zone_count (6)
+[12-14-2022 13:49:11] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:11] [World] [Info] Auto zone port configuration. Telling zone to use port [7005]
+[12-14-2022 13:49:11] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:11] [World] [Info] New Zone Server connection from [127.0.0.1] at [58097:fed0d4f6-833c-4492-b09b-e7573fe0e93b] zone_count (7)
+[12-14-2022 13:49:11] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:12] [World] [Info] Auto zone port configuration. Telling zone to use port [7006]
+[12-14-2022 13:49:12] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:12] [World] [Info] New Zone Server connection from [127.0.0.1] at [58098:77c0501d-8df8-4536-a3b9-8ec4b8cbb83a] zone_count (8)
+[12-14-2022 13:49:12] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:12] [World] [Info] Auto zone port configuration. Telling zone to use port [7007]
+[12-14-2022 13:49:12] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:12] [World] [Info] New Zone Server connection from [127.0.0.1] at [58099:4b248d32-b6f3-482c-88ae-252a6c28d5ce] zone_count (9)
+[12-14-2022 13:49:13] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:13] [World] [Info] Auto zone port configuration. Telling zone to use port [7008]
+[12-14-2022 13:49:13] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:13] [World] [Info] New Zone Server connection from [127.0.0.1] at [58103:3092a0ee-9ea9-4448-b67b-dd515f704ebb] zone_count (10)
+[12-14-2022 13:49:13] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:13] [World] [Info] Auto zone port configuration. Telling zone to use port [7009]
+[12-14-2022 13:49:13] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:13] [World] [Info] New Zone Server connection from [127.0.0.1] at [58105:4ed0d0f2-3313-47f6-9f34-d1f5477bfb2d] zone_count (11)
+[12-14-2022 13:49:13] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:13] [World] [Info] Auto zone port configuration. Telling zone to use port [7010]
+[12-14-2022 13:49:13] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:13] [World] [Info] New Zone Server connection from [127.0.0.1] at [58106:b3f01070-6d51-4200-81b0-1bd94a9e9dcc] zone_count (12)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7011]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58109:701d5533-b018-4525-8841-87006bea8485] zone_count (13)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7012]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58110:f5119a5e-d25b-4070-a063-6878be404729] zone_count (14)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7013]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58113:b73ad0a7-4e66-4688-9d87-40e21f6fa0c0] zone_count (15)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7014]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58115:4ae41c4b-685e-45f5-8b2f-296089c0d9ef] zone_count (16)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7015]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58117:79256698-c95d-4579-adc1-96ceb090dda0] zone_count (17)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7016]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58119:421b43a9-45ba-4f66-8bde-f797a8e955a6] zone_count (18)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7017]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58121:e0c0bdae-2374-40e6-8191-4d23c22f66f6] zone_count (19)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7018]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58122:b0fbee94-d9f8-4321-9d7a-dc557eede94a] zone_count (20)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7019]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58123:ae63fbad-4b23-42aa-b2eb-ff805033e0cb] zone_count (21)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7020]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58126:863f68d8-fce4-48b7-a4f7-d5775630e615] zone_count (22)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7021]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58129:ddf039f0-c0b2-435a-88c2-a7e9ca763166] zone_count (23)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7022]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58130:703d4aec-a9ca-45f0-b03a-5d2b8c7319f6] zone_count (24)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7023]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58131:c14cb429-7666-4369-a92a-6bc8a168aae3] zone_count (25)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7024]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58134:df149088-5080-4358-bc10-ab89f9306777] zone_count (26)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7025]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58136:d6ab404f-241c-4183-b6da-b4f8676db4df] zone_count (27)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7026]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58137:e473b8c1-c9e8-4d58-b518-249870bfe5c5] zone_count (28)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7027]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58139:dfe7cda3-ede8-406e-813d-86e23654d0f3] zone_count (29)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7028]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:14] [World] [Info] New Query Server connection from [127.0.0.1] at [58140:72edb673-6667-4582-ac23-1c70a55aa3cc]
+[12-14-2022 13:49:14] [World] [Info] New UCS Server connection from [127.0.0.1] at [58142:99e5a0df-eea4-47a1-bd42-c56790637f1f]
+[12-14-2022 13:49:14] [World] [Info] New Zone Server connection from [127.0.0.1] at [58143:eeacb591-9273-4ad8-a6fc-92c6a6909ac6] zone_count (30)
+[12-14-2022 13:49:14] [World] [Info] Zone started with name [.] by launcher [NONE]
+[12-14-2022 13:49:14] [World] [Info] Auto zone port configuration. Telling zone to use port [7029]
+[12-14-2022 13:49:14] [World] [Info] Zone specified local address [20.102.88.155]
+[12-14-2022 13:49:28] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:65277]
+[12-14-2022 13:49:28] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 13:49:28] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 13:49:28] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-14-2022 13:49:28] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-14-2022 13:49:28] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (3)
+[12-14-2022 13:49:28] [World] [Info] Account (bartuc1) Logging(In) to character select :: LSID [331073] 
+[12-14-2022 13:49:28] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (3)
+[12-14-2022 13:49:49] [World] [Info] Attempting autobootup of [oggok] ([49]:[0])
+[12-14-2022 13:49:49] [World] [Info] Setting zone process to Zone: Oggok (oggok) ID: 49
+[12-14-2022 13:49:49] [World] [Info] (Sylvex) [Zoning from character select] [oggok] (Zone ID [49]: Instance ID: [0]) 
+[12-14-2022 13:49:49] [World] [Info] Broadcasting a world time update
+[12-14-2022 13:49:49] [World] [Info] Setting zone process to Zone: Oggok (oggok) ID: 49
+[12-14-2022 13:49:49] [World] [Info] Sending client to zone [oggok] ([49]:[0]) at [20.102.88.155]:[7000]
+[12-14-2022 13:49:49] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-14-2022 13:49:49] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 13:49:49] [World] [Info] Removing client from [38.133.239.41]:[65277]
+[12-14-2022 13:49:52] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 13:49:52] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 13:50:26] [World] [Info] ZoneToZone request for [Sylvex] current zone [49] req zone [29]
+[12-14-2022 13:50:26] [World] [Info] Processing ZTZ for egress from zone for client [Sylvex]
+[12-14-2022 13:50:26] [World] [Info] Successfully booted a zone for [Sylvex]
+[12-14-2022 13:50:26] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-14-2022 13:50:26] [World] [Info] Setting zone process to Zone: Halas (halas) ID: 29
+[12-14-2022 13:50:26] [World] [Info] Broadcasting a world time update
+[12-14-2022 13:50:26] [World] [Info] ZoneToZone request for [Sylvex] current zone [49] req zone [29]
+[12-14-2022 13:50:26] [World] [Info] Processing ZTZ for ingress to zone for client [Sylvex] instance_id [0] zone_id [49]
+[12-14-2022 13:50:26] [World] [Info] Found egress server, forwarding client
+[12-14-2022 13:50:27] [World] [Info] New [EverQuest Client] connection from IP [38.133.239.41:1278]
+[12-14-2022 13:50:27] [World] [Info] Checking inbound connection [38.133.239.41] against BannedIPs table
+[12-14-2022 13:50:27] [World] [Info] Connection [38.133.239.41] PASSED banned IPs check. Processing connection
+[12-14-2022 13:50:27] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073]
+[12-14-2022 13:50:27] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [331073] passed
+[12-14-2022 13:50:27] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (2)
+[12-14-2022 13:50:27] [World] [Info] Telling client to continue session
+[12-14-2022 13:50:28] [World] [Info] (Sylvex) [Zoning to] [halas] (Zone ID [29]: Instance ID: [0]) 
+[12-14-2022 13:50:28] [World] [Info] Sending client to zone [halas] ([29]:[0]) at [20.102.88.155]:[7001]
+[12-14-2022 13:50:28] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (4)
+[12-14-2022 13:50:28] [World] [Info] Setting zone process to Zone: Halas (halas) ID: 29
+[12-14-2022 13:50:28] [World] [Info] Client disconnected (not active in process)
+[12-14-2022 13:50:28] [World] [Info] Removing client from [38.133.239.41]:[1278]
+[12-14-2022 13:50:29] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 13:50:29] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (5)
+[12-14-2022 13:52:19] [World] [Info] Removed Query Server connection from [72edb673-6667-4582-ac23-1c70a55aa3cc]
+[12-14-2022 13:52:19] [World] [Info] Connection lost from UCS Server [99e5a0df-eea4-47a1-bd42-c56790637f1f]
+[12-14-2022 13:52:19] [World] [Info] Removing currently active UCS connection
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [75b96964-52fc-4f90-97ef-837d9e9de39e] total zone_count [29]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [4b248d32-b6f3-482c-88ae-252a6c28d5ce] total zone_count [28]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [60e6b873-aa11-446c-ad6d-699c12408081] total zone_count [27]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [f2ad427a-3a8c-4497-bb34-9071161b2871] total zone_count [26]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [6ca94238-3214-4412-b470-c68d7554691b] total zone_count [25]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [90877428-d049-4a9a-b59b-e692405a8410] total zone_count [24]
+[12-14-2022 13:52:20] [World] [Client Login] ClientListEntry::SetOnline for [bartuc1] (1) = [Online] (1)
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [5089d737-403f-49ec-b7b0-c556ed317947] total zone_count [23]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [eeacb591-9273-4ad8-a6fc-92c6a6909ac6] total zone_count [22]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [dfe7cda3-ede8-406e-813d-86e23654d0f3] total zone_count [21]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [d6ab404f-241c-4183-b6da-b4f8676db4df] total zone_count [20]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [e473b8c1-c9e8-4d58-b518-249870bfe5c5] total zone_count [19]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [df149088-5080-4358-bc10-ab89f9306777] total zone_count [18]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [c14cb429-7666-4369-a92a-6bc8a168aae3] total zone_count [17]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [ddf039f0-c0b2-435a-88c2-a7e9ca763166] total zone_count [16]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [703d4aec-a9ca-45f0-b03a-5d2b8c7319f6] total zone_count [15]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [863f68d8-fce4-48b7-a4f7-d5775630e615] total zone_count [14]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [ae63fbad-4b23-42aa-b2eb-ff805033e0cb] total zone_count [13]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [e0c0bdae-2374-40e6-8191-4d23c22f66f6] total zone_count [12]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [b0fbee94-d9f8-4321-9d7a-dc557eede94a] total zone_count [11]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [421b43a9-45ba-4f66-8bde-f797a8e955a6] total zone_count [10]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [4ae41c4b-685e-45f5-8b2f-296089c0d9ef] total zone_count [9]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [79256698-c95d-4579-adc1-96ceb090dda0] total zone_count [8]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [b73ad0a7-4e66-4688-9d87-40e21f6fa0c0] total zone_count [7]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [f5119a5e-d25b-4070-a063-6878be404729] total zone_count [6]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [701d5533-b018-4525-8841-87006bea8485] total zone_count [5]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [b3f01070-6d51-4200-81b0-1bd94a9e9dcc] total zone_count [4]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [4ed0d0f2-3313-47f6-9f34-d1f5477bfb2d] total zone_count [3]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [3092a0ee-9ea9-4448-b67b-dd515f704ebb] total zone_count [2]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [77c0501d-8df8-4536-a3b9-8ec4b8cbb83a] total zone_count [1]
+[12-14-2022 13:52:20] [World] [Info] Removed Zone Server connection from [fed0d4f6-833c-4492-b09b-e7573fe0e93b] total zone_count [0]

@@ -1,0 +1,17 @@
+[12-18-2022 07:10:02] [Zone] [Info] [WorldServer::HandleMessage] Received Message SyncWorldTime
+[12-18-2022 07:10:02] [Zone] [Info] Time Broadcast Packet: EQTime [06:57 pm]
+[12-18-2022 07:10:02] [Zone] [Info] UCS Server is now [online]
+[12-18-2022 07:10:04] [Zone] [Info] New connection from IP 38.133.239.41:14807
+[12-18-2022 07:10:04] [Zone] [Info] New client from [38.133.239.41]:[14807]
+[12-18-2022 07:10:05] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 07:10:05] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 07:10:05] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 07:13:39] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [37] x [0] y [0] z [0] heading [0] ignorerestrictions [0] zone_mode [0]
+[12-18-2022 07:13:39] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 07:13:39] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 07:13:39] [Zone] [Info] Zoning [Nivek] to: [oasis] ([37]) - ([0]) x [903.98] y [490.03] z [6.4]
+[12-18-2022 07:13:39] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [56 Minutes and 23 Seconds] duration [1 Hour] zone [PID (12272) The Overthere (93)]
+[12-18-2022 07:13:40] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[14807]
+[12-18-2022 08:13:39] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [1 Hour] duration [1 Hour] zone [PID (12272) The Overthere (93)]
+[12-18-2022 08:13:39] [Zone] [Info] [Zone Shutdown] Zone [overthere] zone_id [93] version [0] instance_id [0]
+[12-18-2022 08:13:39] [Zone] [Info] [Zone Shutdown] Zone [overthere] zone_id [93] version [0] instance_id [0] Going to sleep

@@ -1,0 +1,159 @@
+[12-18-2022 06:15:36] [Zone] [Info] [WorldServer::HandleMessage] Received Message SyncWorldTime
+[12-18-2022 06:15:36] [Zone] [Info] Time Broadcast Packet: EQTime [12:48 am]
+[12-18-2022 06:15:36] [Zone] [Info] UCS Server is now [online]
+[12-18-2022 06:15:39] [Zone] [Info] New connection from IP 38.133.239.41:4333
+[12-18-2022 06:15:39] [Zone] [Info] New client from [38.133.239.41]:[4333]
+[12-18-2022 06:15:40] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 06:15:40] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 06:15:40] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 06:15:53] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:16:01] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:16:05] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:16:13] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:16:27] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:16:37] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:16:40] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:16:43] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:16:49] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:16:52] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:16:56] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:17:03] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:17:09] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:17:48] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:17:50] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:17:56] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:17:58] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:18:08] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:18:20] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:18:29] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:18:40] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:19:24] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:19:45] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:20:27] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:21:29] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:22:22] [Zone] [Info] [ZoneStore] Loaded [593] zones
+[12-18-2022 06:22:22] [Zone] [Info] Successfully loaded Zone Config for Zone [freporte] (East Freeport) Version [0] Instance ID [0]
+[12-18-2022 06:24:05] [Zone] [Info] [ZoneStore] Loaded [593] zones
+[12-18-2022 06:24:05] [Zone] [Info] Successfully loaded Zone Config for Zone [freporte] (East Freeport) Version [0] Instance ID [0]
+[12-18-2022 06:24:08] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [69] x [0] y [0] z [0] heading [0] ignorerestrictions [0] zone_mode [0]
+[12-18-2022 06:24:08] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 06:24:08] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 06:24:08] [Zone] [Info] Zoning [Nivek] to: [oot] ([69]) - ([0]) x [-9200] y [390] z [6]
+[12-18-2022 06:24:08] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [51 Minutes and 29 Seconds] duration [1 Hour] zone [PID (9304) East Freeport (10)]
+[12-18-2022 06:24:08] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[4333]
+[12-18-2022 06:26:53] [Zone] [Info] New connection from IP 38.133.239.41:59364
+[12-18-2022 06:26:53] [Zone] [Info] New client from [38.133.239.41]:[59364]
+[12-18-2022 06:26:54] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 06:26:54] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 06:26:54] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 06:27:22] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:28:13] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:28:15] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:28:17] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:28:48] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:28:50] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:29:01] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:29:04] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:29:10] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:29:17] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:29:19] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:29:29] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:29:36] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:30:01] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:30:05] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:30:12] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [69] x [0] y [0] z [0] heading [0] ignorerestrictions [0] zone_mode [0]
+[12-18-2022 06:30:12] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 06:30:12] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 06:30:12] [Zone] [Info] Zoning [Nivek] to: [oot] ([69]) - ([0]) x [-9200] y [390] z [6]
+[12-18-2022 06:30:12] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [53 Minutes and 56 Seconds] duration [1 Hour] zone [PID (9304) East Freeport (10)]
+[12-18-2022 06:30:12] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[59364]
+[12-18-2022 06:30:25] [Zone] [Info] New connection from IP 38.133.239.41:63716
+[12-18-2022 06:30:25] [Zone] [Info] New client from [38.133.239.41]:[63716]
+[12-18-2022 06:30:26] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 06:30:26] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 06:30:26] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 06:30:36] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [69] x [0] y [0] z [0] heading [0] ignorerestrictions [0] zone_mode [0]
+[12-18-2022 06:30:36] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 06:30:36] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 06:30:36] [Zone] [Info] Zoning [Nivek] to: [oot] ([69]) - ([0]) x [-9200] y [390] z [6]
+[12-18-2022 06:30:36] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [59 Minutes and 36 Seconds] duration [1 Hour] zone [PID (9304) East Freeport (10)]
+[12-18-2022 06:30:36] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[63716]
+[12-18-2022 06:30:44] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:30:46] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:30:51] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:31:30] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:34:53] [Zone] [Info] New connection from IP 38.133.239.41:24263
+[12-18-2022 06:34:53] [Zone] [Info] New client from [38.133.239.41]:[24263]
+[12-18-2022 06:34:54] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 06:34:54] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 06:34:54] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 06:35:15] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:36:02] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:37:24] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:37:38] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:38:11] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:39:03] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:39:38] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:39:50] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:40:12] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:40:33] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:40:39] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:41:10] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:41:22] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:41:39] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:42:06] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:42:49] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:43:02] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:43:06] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:43:28] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:43:29] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:43:31] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:45:43] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:46:42] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:47:12] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:47:22] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:50:26] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:50:58] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:51:05] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:51:09] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:51:21] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:51:26] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:51:46] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:52:16] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:52:43] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:53:06] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:53:51] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:54:10] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:54:22] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:54:43] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:54:46] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:54:49] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:55:01] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:55:07] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:55:24] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:55:43] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:55:48] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:55:50] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:58:00] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:59:02] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:59:13] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:02:03] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:02:07] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:02:34] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:02:35] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:02:46] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:02:53] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:02:56] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [10] x [-1006.66] y [-14.65] z [-53.47] heading [64] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 07:03:11] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:03:21] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [69] x [-9173.2] y [392.64] z [6.47] heading [0] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 07:03:22] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 07:03:22] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 07:03:22] [Zone] [Info] Zoning [Nivek] to: [oot] ([69]) - ([0]) x [-9173.2] y [392.64] z [6.47]
+[12-18-2022 07:03:22] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [27 Minutes and 15 Seconds] duration [1 Hour] zone [PID (9304) East Freeport (10)]
+[12-18-2022 07:03:22] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[24263]
+[12-18-2022 07:03:42] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:04:02] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:04:07] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 08:03:22] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [1 Hour] duration [1 Hour] zone [PID (9304) East Freeport (10)]
+[12-18-2022 08:03:22] [Zone] [Info] [Zone Shutdown] Zone [freporte] zone_id [10] version [0] instance_id [0]
+[12-18-2022 08:03:22] [Zone] [Info] [Zone Shutdown] Zone [freporte] zone_id [10] version [0] instance_id [0] Going to sleep

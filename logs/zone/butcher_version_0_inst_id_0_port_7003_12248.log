@@ -1,0 +1,62 @@
+[12-18-2022 06:30:53] [Zone] [Info] [WorldServer::HandleMessage] Received Message SyncWorldTime
+[12-18-2022 06:30:53] [Zone] [Info] Time Broadcast Packet: EQTime [05:54 am]
+[12-18-2022 06:30:53] [Zone] [Info] UCS Server is now [online]
+[12-18-2022 06:30:55] [Zone] [Info] New connection from IP 38.133.239.41:65508
+[12-18-2022 06:30:55] [Zone] [Info] New client from [38.133.239.41]:[65508]
+[12-18-2022 06:30:56] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 06:30:56] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 06:30:56] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 06:30:59] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:31:45] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [69] x [0] y [0] z [0] heading [0] ignorerestrictions [0] zone_mode [0]
+[12-18-2022 06:31:45] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 06:31:45] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 06:31:45] [Zone] [Info] Zoning [Nivek] to: [oot] ([69]) - ([0]) x [-9200] y [390] z [6]
+[12-18-2022 06:31:45] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [59 Minutes and 8 Seconds] duration [1 Hour] zone [PID (12248) Butcherblock Mountains (68)]
+[12-18-2022 06:31:46] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[65508]
+[12-18-2022 06:32:13] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:32:22] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 06:32:59] [Zone] [Info] New connection from IP 38.133.239.41:3557
+[12-18-2022 06:32:59] [Zone] [Info] New client from [38.133.239.41]:[3557]
+[12-18-2022 06:33:00] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 06:33:00] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 06:33:00] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 06:34:50] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [10] x [0] y [0] z [0] heading [0] ignorerestrictions [0] zone_mode [0]
+[12-18-2022 06:34:51] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 06:34:51] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 06:34:51] [Zone] [Info] Zoning [Nivek] to: [freporte] ([10]) - ([0]) x [-648] y [-1097] z [-52.2]
+[12-18-2022 06:34:51] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [56 Minutes and 55 Seconds] duration [1 Hour] zone [PID (12248) Butcherblock Mountains (68)]
+[12-18-2022 06:34:51] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[3557]
+[12-18-2022 06:35:26] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:03:38] [Zone] [Info] New connection from IP 38.133.239.41:34525
+[12-18-2022 07:03:38] [Zone] [Info] New client from [38.133.239.41]:[34525]
+[12-18-2022 07:03:39] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 07:03:39] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 07:03:39] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 07:03:40] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:04:13] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:04:15] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [69] x [-9173.2] y [392.64] z [6.47] heading [0] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 07:04:15] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 07:04:15] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 07:04:15] [Zone] [Info] Zoning [Nivek] to: [oot] ([69]) - ([0]) x [-9173.2] y [392.64] z [6.47]
+[12-18-2022 07:04:15] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [30 Minutes and 36 Seconds] duration [1 Hour] zone [PID (12248) Butcherblock Mountains (68)]
+[12-18-2022 07:04:15] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:04:15] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[34525]
+[12-18-2022 07:04:19] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:04:24] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:04:28] [Zone] [Info] New connection from IP 38.133.239.41:38621
+[12-18-2022 07:04:28] [Zone] [Info] New client from [38.133.239.41]:[38621]
+[12-18-2022 07:04:29] [Zone] [Error] MySQL Error while trying to load PEQZone flags for [Nivek].
+[12-18-2022 07:04:29] [Zone] [Error] MySQL Error while trying to load zone flags for [Nivek]: []
+[12-18-2022 07:04:29] [Zone] [Info] [Client::UpdateAdmin] - [Nivek] is a GM
+[12-18-2022 07:04:48] [Zone] [Info] [ZonePC] Client [Nivek] zone_id [96] x [-3260.1] y [-4544.56] z [19.47] heading [0] ignorerestrictions [0] zone_mode [3]
+[12-18-2022 07:04:48] [Zone] [Info] [Handle_OP_ZoneChange] Loaded zone flag []
+[12-18-2022 07:04:48] [Zone] [Info] [Nivek] Bypassing Expansion zone checks because GM status is set
+[12-18-2022 07:04:48] [Zone] [Info] Zoning [Nivek] to: [timorous] ([96]) - ([0]) x [-3260.1] y [-4544.56] z [19.47]
+[12-18-2022 07:04:48] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [59 Minutes and 27 Seconds] duration [1 Hour] zone [PID (12248) Butcherblock Mountains (68)]
+[12-18-2022 07:04:48] [Zone] [Info] Dropping client: Process=false, ip=[38.133.239.41] port=[38621]
+[12-18-2022 07:05:01] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:05:08] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 07:05:30] [Zone] [Info] [Attack] Should have attempted to do OOS check
+[12-18-2022 08:04:48] [Zone] [Info] [ResetShutdownTimer] Reset to [1 Hour] from original remaining time [1 Hour] duration [1 Hour] zone [PID (12248) Butcherblock Mountains (68)]
+[12-18-2022 08:04:48] [Zone] [Info] [Zone Shutdown] Zone [butcher] zone_id [68] version [0] instance_id [0]
+[12-18-2022 08:04:48] [Zone] [Info] [Zone Shutdown] Zone [butcher] zone_id [68] version [0] instance_id [0] Going to sleep

@@ -1,0 +1,21 @@
+[12-18-2022 04:48:54] [Login] [Info] Server Manager Init
+[12-18-2022 04:48:54] [Login] [Info] Loginserver now listening on port [5998]
+[12-18-2022 04:48:54] [Login] [Info] Client Manager Init
+[12-18-2022 04:48:54] [Login] [Info] Server Started
+[12-18-2022 04:48:54] [Login] [Info] [Config] [Account] CanAutoCreateAccounts [true]
+[12-18-2022 04:48:54] [Login] [Info] Webserver API now listening on port [6000]
+[12-18-2022 04:48:54] [Login] [Info] [Config] [Client_Configuration] DisplayExpansions [true]
+[12-18-2022 04:48:54][12-18-2022 04:48:54]  [Login] [Info] Loaded [0] API token(s)[Login] [Info] [Config] [Client_Configuration] MaxExpansions [2]
+
+[12-18-2022 04:48:54] [Login] [Info] [Config] [WorldServer] IsRejectingDuplicateServers [false]
+[12-18-2022 04:48:54] [Login] [Info] [Config] [WorldServer] IsUnregisteredAllowed [true]
+[12-18-2022 04:48:54] [Login] [Info] [Config] [WorldServer] ShowPlayerCount [false]
+[12-18-2022 04:48:54] [Login] [Info] [Config] [WorldServer] DevAndTestServersListBottom [false]
+[12-18-2022 04:48:54] [Login] [Info] [Config] [WorldServer] SpecialCharactersStartListBottom [false]
+[12-18-2022 04:48:54] [Login] [Info] [Config] [Security] GetEncryptionMode [14]
+[12-18-2022 04:48:54] [Login] [Info] [Config] [Security] IsTokenLoginAllowed [true]
+[12-18-2022 04:48:54] [Login] [Info] [Config] [Security] IsPasswordLoginAllowed [true]
+[12-18-2022 04:48:54] [Login] [Info] [Config] [Security] IsUpdatingInsecurePasswords [true]
+[12-18-2022 04:49:04] [Login] [Info] New World Server connection from 127.0.0.1:58945
+[12-18-2022 04:49:04] [Login] [Info] New World Server Info | name [Project Gate [Velious]] shortname [ProjGate] remote_address [20.102.88.155] local_address [20.102.88.155] account [] password [] server_type [0]
+[12-18-2022 04:49:04] [Login] [Info] Server [Project Gate [Velious]] [ProjGate] did not login but unregistered servers are allowed
