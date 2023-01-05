@@ -13,9 +13,9 @@
    "database" : {
       "db" : "peq",
       "host" : "127.0.0.1",
-      "password" : "eqemu",
+      "password" : "YOURPASSWORD",
       "port" : "3306",
-      "user" : "root"
+      "user" : "YOURUSER"
    },
    "logging" : {
       "dump_packets_in" : false,
