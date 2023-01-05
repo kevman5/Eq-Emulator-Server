@@ -7,7 +7,7 @@
       "database" : {
          "db" : "peq",
          "host" : "127.0.0.1",
-         "password" : "eqemu",
+         "password" : "YOURPASS",
          "port" : "3306",
          "username" : "root"
       },
@@ -26,7 +26,7 @@
       "qsdatabase" : {
          "db" : "peq",
          "host" : "127.0.0.1",
-         "password" : "eqemu",
+         "password" : "YOURPASS",
          "port" : "3306",
          "username" : "root"
       },
@@ -37,7 +37,7 @@
             "account" : "root",
             "host" : "login.eqemulator.net",
             "legacy" : "1",
-            "password" : "eqemu",
+            "password" : "YOURPASS",
             "port" : "5998"
          },
          "loginserver2" : {
