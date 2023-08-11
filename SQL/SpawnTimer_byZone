@@ -1,0 +1,3 @@
+# This sql query is used to set respawn timer of all npc's in the specified zone.
+# Note: the respawn time is in seconds. 
+UPDATE spawn2 SET respawntime = 1800 WHERE respawntime < 1800 and zone = 'sebilis';
