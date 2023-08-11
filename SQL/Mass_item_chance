@@ -1,0 +1,7 @@
+# This SQL Query will set the Loot drop % of the item you name to 0. (Item will no longer drop from ANY NPC.)
+
+# the % is a wildcard meaning if you was wanting to set any item's named orc finger (bone, skin, etc) to 0% drop chance you dont have to type the full name. you can just type 'orc finger%' you can also reverse the wild card to do lets say all finger bones not just orcs. : '% finger bone' works that way. 
+
+# Just replace the Orc Finger Bone with whatever item your wanting to NOT drop anymore. Note: this sql query will NOT delete this item from your database. it only sets the chance of it dropping to 0. 
+
+update lootdrop_entries set disabled_chance = chance, chance = 0 where item_id IN ( select `id` from `items` where `name` like 'Orc finger bone%' );
