@@ -1,0 +1,10 @@
+# This group of sql queries will make viewing and changing hotzones very easily. 
+# To view current hotzones:
+Select * from zone where hotzone = 1
+
+# To remove a zone from hotzone list that is currently on it:
+UPDATE zone SET hotzone = 0 where short_name = 'sebilis'
+# OR to disable all current hotzones: 
+UPDATE zone SET hotzone = 0 where hotzone = 1
+# To set a zone to a hotzone: 
+UPDATE zone SET hotzone = 1 where short_name = 'sebilis'
