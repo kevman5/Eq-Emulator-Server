@@ -1,0 +1,3 @@
+# This will delete all augs from your Database
+# Find what itemtype your wanting to delete and replace the 54
+DELETE FROM `items` WHERE `itemtype` = '54';
